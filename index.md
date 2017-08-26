@@ -18,7 +18,7 @@ is hereby proposed:
 
 > **All command-line software which outputs text with ANSI color added should
 check for the presence of a `NO_COLOR` environment variable that, when present
-(regardless of  its value), will disable the output of ANSI color.**
+(regardless of  its value), prevents the addition of ANSI color.**
 
 By adopting this standard, users that prefer to have plain, non-colored text
 output can just set one environment variable in their shell to have it affect
