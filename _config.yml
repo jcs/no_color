@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+exclude: [CNAME, README.md, .gitignore]
+markdown: kramdown
