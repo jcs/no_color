@@ -30,7 +30,7 @@ For software that has not or will not adopt this standard, an attempt will be
 made to document how to otherwise disable color.
 
 To add software to this site,
-[clone this site's Git repository](https://github.com/jcs/no-color.org)
+[clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
 ## Software supporting `NO_COLOR`
