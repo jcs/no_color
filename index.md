@@ -44,7 +44,8 @@ and submit a pull request.
 
 | Software | Method |
 |:-|:-|
-| [clang](https://clang.llvm.org/) | [`-fno-color-diagnostics`](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics) |
+| [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
+| [clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
 {: rules="groups"}
 
 ## Software with no mechanism to disable color
