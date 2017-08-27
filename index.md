@@ -53,5 +53,5 @@ and submit a pull request.
 
 | Software | Notes |
 |:-|:-|
-| [Homebrew](https://brew.sh/) | Could probably be disabled by having [`Tty` module](https://github.com/Homebrew/brew/blob/master/Library/Homebrew/utils/tty.rb) look for `ENV["NO_COLOR"]` |
+| [Homebrew](https://brew.sh/) | [Rejected `NO_COLOR` patch](https://github.com/Homebrew/brew/pull/3090) |
 {: rules="groups"}
