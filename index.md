@@ -52,6 +52,7 @@ and submit a pull request.
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
 | [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
+| [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 {: rules="groups"}
 
 ## Software with no mechanism to disable color
