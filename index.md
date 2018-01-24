@@ -49,6 +49,7 @@ and submit a pull request.
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
 | [git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui))|
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
+| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 {: rules="groups"}
 
