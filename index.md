@@ -37,7 +37,7 @@ and submit a pull request.
 
 | Software | Version/Date Supported |
 |:-|:-|
-| ... | ... |
+| [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
