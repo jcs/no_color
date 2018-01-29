@@ -50,6 +50,7 @@ and submit a pull request.
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
 | [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui))|
+| [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
 | [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` |
