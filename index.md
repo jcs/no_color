@@ -37,6 +37,7 @@ and submit a pull request.
 
 | Software | Version/Date Supported |
 |:-|:-|
+| [mblaze](https://github.com/chneukirchen/mblaze) | Supported from 2018-01-29 |
 | [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
 {: rules="groups"}
 
