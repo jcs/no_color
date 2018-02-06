@@ -58,7 +58,7 @@ and submit a pull request.
 | [Ripgrep](https://github.com/BurntSushi/ripgrep) | `rg --color=never` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
-| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` |
+| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([PR](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
