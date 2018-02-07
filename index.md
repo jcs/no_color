@@ -40,6 +40,7 @@ and submit a pull request.
 | [lr](https://github.com/chneukirchen/lr) | Supported from 2018-01-29 |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from 2018-01-29 |
 | [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
+| [smenu](https://github.com/p-gen/smenu) | Supported from 2018-02-05 |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
