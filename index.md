@@ -37,6 +37,7 @@ and submit a pull request.
 
 | Software | Version/Date Supported |
 |:-|:-|
+| [crayon](https://github.com/r-lib/crayon) | Supported from [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [lr](https://github.com/chneukirchen/lr) | Supported from [2018-01-29](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [smenu](https://github.com/p-gen/smenu) | Supported from [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
