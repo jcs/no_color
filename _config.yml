@@ -1,2 +1,2 @@
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, vendor]
 markdown: kramdown
