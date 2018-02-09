@@ -40,6 +40,7 @@ and submit a pull request.
 | [lr](https://github.com/chneukirchen/lr) | Supported from 2018-01-29 |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from 2018-01-29 |
 | [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
+| [crayon](https://github.com/r-lang/crayon) | Supported from 2018-02-08 |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
