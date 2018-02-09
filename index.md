@@ -52,9 +52,9 @@ and submit a pull request.
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
 | [fzf](https://github.com/junegunn/fzf) | `fzf --color=bw` or `export FZF_DEFAULT_OPTS=--color=bw` ([Docs](https://github.com/junegunn/fzf/wiki/Color-schemes)) |
-| [gcc](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-color-diagnostics` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
+| [GCC](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-color-diagnostics` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
 | [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui))|
-| [lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
+| [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
 | [Ripgrep](https://github.com/BurntSushi/ripgrep) | `rg --color=never` |
@@ -63,7 +63,7 @@ and submit a pull request.
 | [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([Pending PR](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
-| [vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
+| [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
 {: rules="groups"}
 
 ## Software with no mechanism to disable color
