@@ -37,10 +37,10 @@ and submit a pull request.
 
 | Software | Version/Date Supported |
 |:-|:-|
-| [lr](https://github.com/chneukirchen/lr) | Supported from 2018-01-29 |
-| [mblaze](https://github.com/chneukirchen/mblaze) | Supported from 2018-01-29 |
-| [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
-| [smenu](https://github.com/p-gen/smenu) | Supported from 2018-02-05 |
+| [lr](https://github.com/chneukirchen/lr) | Supported from [2018-01-29](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
+| [mblaze](https://github.com/chneukirchen/mblaze) | Supported from [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
+| [smenu](https://github.com/p-gen/smenu) | Supported from [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
+| [Snow](https://github.com/mortie/snow) | Supported from [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
@@ -59,7 +59,7 @@ and submit a pull request.
 | [Ripgrep](https://github.com/BurntSushi/ripgrep) | `rg --color=never` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
-| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([PR](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
+| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([Pending PR](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
