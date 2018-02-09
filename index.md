@@ -39,6 +39,7 @@ and submit a pull request.
 |:-|:-|
 | [lr](https://github.com/chneukirchen/lr) | Supported from 2018-01-29 |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from 2018-01-29 |
+| [smenu](https://github.com/p-gen/smenu) | Supported from [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Supported from 2018-01-24 |
 | [crayon](https://github.com/r-lib/crayon) | Supported from 2018-02-08 |
 {: rules="groups"}
@@ -59,7 +60,7 @@ and submit a pull request.
 | [Ripgrep](https://github.com/BurntSushi/ripgrep) | `rg --color=never` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby](https://www.ruby-lang.org/) | `export TEST_COLORS=pass=0:fail=0` |
-| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` |
+| [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([Pending PR](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
