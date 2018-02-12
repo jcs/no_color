@@ -38,6 +38,7 @@ and submit a pull request.
 | Software | Version/Date Supported |
 |:-|:-|
 | [crayon](https://github.com/r-lib/crayon) | Supported from [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97), affects all R packages using the library |
+| [Homebrew](https://brew.sh/) | Supported from [2018-02-12](https://github.com/Homebrew/brew/commit/b3f0e571f4cdcc29dd6982b863fdcd7de5e6febf) |
 | [lr](https://github.com/chneukirchen/lr) | Supported from [2018-01-29](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [smenu](https://github.com/p-gen/smenu) | Supported from [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
@@ -65,11 +66,4 @@ and submit a pull request.
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
-{: rules="groups"}
-
-## Software with no mechanism to disable color
-
-| Software | Notes |
-|:-|:-|
-| [Homebrew](https://brew.sh/) | [Rejected `NO_COLOR` patch](https://github.com/Homebrew/brew/pull/3090) |
 {: rules="groups"}
