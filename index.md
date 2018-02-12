@@ -42,6 +42,7 @@ and submit a pull request.
 | [mblaze](https://github.com/chneukirchen/mblaze) | Supported from [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [smenu](https://github.com/p-gen/smenu) | Supported from [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Supported from [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
+| [LogColor](https://github.com/induane/logcolor) | Supported from [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
