@@ -21,11 +21,11 @@ check for the presence of a `NO_COLOR` environment variable that, when present
 (regardless of  its value), prevents the addition of ANSI color.**
 
 By adopting this standard, users that prefer to have plain, non-colored text
-output can just set one environment variable in their shell to have it affect
-all supported software.
+output can set one environment variable in their shell to have it automatically
+affect all supported software.
 
-This website will attempt to document which software has adopted this standard
-and when.
+This website will document which software has adopted this standard and when
+support was added.
 For software that has not or will not adopt this standard, an attempt will be
 made to document how to otherwise disable color.
 
@@ -33,7 +33,7 @@ To add software to this site,
 [clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
-## Software supporting `NO_COLOR`
+## Software supporting `NO_COLOR` to disable default color output
 
 | Software | Description | Version/Date Supported |
 |:-|:-|:-|
