@@ -60,6 +60,7 @@ and submit a pull request.
 | [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
+| [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true`
 | [Ripgrep](https://github.com/BurntSushi/ripgrep) | `rg --color=never` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby](https://www.ruby-lang.org/) | `export RUBY_TESTOPTS=--color=never` |
