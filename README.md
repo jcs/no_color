@@ -6,14 +6,19 @@ For information on the `NO_COLOR` standard, see
 ## Adding software
 
 To add or update software on the `no-color.org` website, clone this Git
-repository, and update `index.md` with a line under the appropriate section
+repository and update `index.md` with a line under the appropriate section,
 keeping entries in alphabetical order.
 The line should be formatted as:
 
-     | [Software Name](Absolute URL to the software's website, if applicable) | Your notes here |
+     | [Software Name](URL) | Short description | [X.Y.Z or YYYY-MM-DD](URL) |
 
-Commit your change, push to your cloned repo, and then submit a pull request to
-this repository.
+A version number of the first release available with `NO_COLOR` support is
+preferred, with a link to the release notes for that version.
+Otherwise, a date of the commit when `NO_COLOR` support was added can be used
+with the link pointing to the commit.
+
+Commit your changes, push to your cloned repo, and then submit a pull request
+to this repository.
 If your change is merged, the `no-color.org` website will be automatically
 rebuilt.
 
