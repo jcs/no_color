@@ -95,6 +95,7 @@ and submit a pull request.
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
+| [Hub](https://github.com/github/hub/) | `hub <SUBCMD> --color=never <CMD>` |
 {: rules="groups"}
 
 ## Frequently Asked Questions
