@@ -38,6 +38,7 @@ and submit a pull request.
 | Software | Description | Version/Date Supported |
 |:-|:-|:-|
 | [alogview](https://github.com/flimberger/alogview) | Android logcat Filter | [2018-10-31](https://github.com/flimberger/alogview/commit/785e5608711d92a1c41733f9ecfa3ed2d335a940) |
+| [Ammonite](https://github.com/lihaoyi/Ammonite) | Scala Scripting | [1.0.0](https://github.com/lihaoyi/Ammonite/releases/tag/1.0.0) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
@@ -77,6 +78,7 @@ and submit a pull request.
 
 | Software | Method |
 |:-|:-|
+| [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
 | [Ansible](https://github.com/ansible/ansible) | `export ANSIBLE_NOCOLOR=true` ([Docs](http://docs.ansible.com/ansible/latest/intro_configuration.html#nocolor)) |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
