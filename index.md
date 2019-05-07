@@ -39,6 +39,7 @@ and submit a pull request.
 |:-|:-|:-|
 | [alogview](https://github.com/flimberger/alogview) | Android logcat Filter | [2018-10-31](https://github.com/flimberger/alogview/commit/785e5608711d92a1c41733f9ecfa3ed2d335a940) |
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | Scala Scripting | [1.0.0](https://github.com/lihaoyi/Ammonite/releases/tag/1.0.0) |
+| [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
