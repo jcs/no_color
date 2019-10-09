@@ -43,6 +43,7 @@ and submit a pull request.
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
+| [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | [2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
