@@ -46,6 +46,7 @@ color via `NO_COLOR`.
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
+| [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable default color output
