@@ -33,7 +33,7 @@ To add software to this site,
 [clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
-## Libraries supporting `NO_COLOR` to disable default color output
+## Color libraries supporting `NO_COLOR` to disable default color output
 
 Software using these libraries to output color inherently support disabling
 color via `NO_COLOR`.
@@ -46,7 +46,6 @@ color via `NO_COLOR`.
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
-| [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable default color output
@@ -86,6 +85,7 @@ color via `NO_COLOR`.
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage your environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
+| [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [twa](https://github.com/trailofbits/twa) | A tiny web auditor with strong opinions | [1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
