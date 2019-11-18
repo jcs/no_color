@@ -64,6 +64,7 @@ color via `NO_COLOR`.
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying which compiler was used for creating an ELF | [1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
+| [Elixir](https://elixir-lang.org) | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | [1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Command-line utility for finding files with SQL-like expressions | [0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
