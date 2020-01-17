@@ -46,6 +46,7 @@ color via `NO_COLOR`.
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
+| [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | [1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable default color output
@@ -62,6 +63,7 @@ color via `NO_COLOR`.
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
+| [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying which compiler was used for creating an ELF | [1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Command-line utility for finding files with SQL-like expressions | [0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
@@ -80,6 +82,7 @@ color via `NO_COLOR`.
 | [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
+| [o](https://github.com/xyproto/o) | Small, fast and limit text editor | [2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
 | [picocli](https://github.com/remkop/picocli/) | A mighty tiny Java command line interface | [3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
 | [procs](https://github.com/c-blake/procs) | Process&system query&formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
