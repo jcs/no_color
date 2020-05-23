@@ -106,6 +106,7 @@ color via `NO_COLOR`.
 
 ## Disabling color in software not supporting `NO_COLOR`
 
+{:.two_col}
 | Software | Method |
 |:-|:-|
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
