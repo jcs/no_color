@@ -105,6 +105,7 @@ color via `NO_COLOR`.
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [twa](https://github.com/trailofbits/twa) | A tiny web auditor with strong opinions | [1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
+| [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
