@@ -63,27 +63,27 @@ color via `NO_COLOR`.
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [4.1.0](https://github.com/cakephp/cakephp/pull/14158) |
-| [cdist](https://www.cdi.st/) | usable configuration management | [6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
+| [cdist](https://www.cdi.st/) | Usable configuration management | [6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
-| [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to `find` | [7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
+| [fd](https://github.com/sharkdp/fd) | Simple, fast and user-friendly alternative to `find` | [7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
-| [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | The GatsbyJS command line interface (CLI) | [2019-08-05](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
+| [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
 | [Homebrew](https://brew.sh/) | Package manager for macOS | [1.5.5](https://github.com/Homebrew/brew/releases/tag/1.5.5) |
 | [KBSecret](https://kbsecret.github.io/) | Secret manager backed by Keybase and KBFS | [1.4.0](https://github.com/kbsecret/kbsecret/commit/d5296054d979a1b1ce07c1be78d56d3d29b62384) |
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
-| [lc](https://github.com/c-blake/lc) | multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
+| [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
 | [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
-| [meli](https://meli.delivery) | terminal mail client in Rust | [2019-01-27](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
+| [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [Modules](http://modules.sourceforge.net/) | Provides dynamic modification of a user's environment | [4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
 | [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
@@ -91,19 +91,19 @@ color via `NO_COLOR`.
 | [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
-| [o](https://github.com/xyproto/o) | Small, fast and limit text editor | [2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
+| [o](https://github.com/xyproto/o) | Small, fast and limited text editor | [2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
 | [picocli](https://github.com/remkop/picocli/) | A mighty tiny Java command line interface | [3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
-| [procs](https://github.com/c-blake/procs) | Process&system query&formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
+| [procs](https://github.com/c-blake/procs) | Process & system query & formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
 | [PyDERASN](http://pyderasn.cypherpunks.ru/) | Python ASN.1 DER library | [2018-02-14](https://git.cypherpunks.ru/cgit.cgi/pyderasn.git/commit/?id=54876436a23f14951f2e6353e9072c9a098b35b4) |
-| [rsmodules](https://github.com/fretn/rsmodules) | Manage your environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
+| [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
-| [twa](https://github.com/trailofbits/twa) | A tiny web auditor with strong opinions | [1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
+| [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 {: rules="groups"}
