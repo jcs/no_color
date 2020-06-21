@@ -69,7 +69,7 @@ color via `NO_COLOR`.
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
-| [fd](https://github.com/sharkdp/fd) | Simple, fast and user-friendly alternative to `find` | [7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
+| [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
@@ -85,16 +85,16 @@ color via `NO_COLOR`.
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
-| [Modules](http://modules.sourceforge.net/) | Provides dynamic modification of a user's environment | [4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
+| [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
 | [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
 | [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
 | [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
-| [o](https://github.com/xyproto/o) | Small, fast and limited text editor | [2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
+| [o](https://github.com/xyproto/o) | Small, fast, and limited text editor | [2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
-| [procs](https://github.com/c-blake/procs) | Process & system query & formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
+| [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
 | [PyDERASN](http://pyderasn.cypherpunks.ru/) | Python ASN.1 DER library | [2018-02-14](https://git.cypherpunks.ru/cgit.cgi/pyderasn.git/commit/?id=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
