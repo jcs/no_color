@@ -64,6 +64,7 @@ color via `NO_COLOR`.
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [4.1.0](https://github.com/cakephp/cakephp/pull/14158) |
 | [cdist](https://www.cdi.st/) | Usable configuration management | [6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
+| [Cras](https://sr.ht/~emvigo/cras) | Cras: The Anti-Procrastination Tool | [0.1.0](https://git.sr.ht/~emvigo/cras/tree/0.1.0) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
