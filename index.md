@@ -50,6 +50,7 @@ color via `NO_COLOR`.
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
+| [termcolor](https://github.com/BurntSushi/termcolor) | Rust crate for cross platform terminal colors | [1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
 | [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | [1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
 {: rules="groups"}
 
