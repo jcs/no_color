@@ -45,7 +45,7 @@ color via `NO_COLOR`.
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [Dye](https://github.com/dduan/Dye) | Cross-platform terminal styling for Swift command-line interface | [0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
-| [kleur](https://github.com/lukeed/kleur) | The fastest Node.js library for formatting terminal text with ANSI colors~! | [4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
+| [kleur](https://github.com/lukeed/kleur) | A Node.js library for formatting terminal text with ANSI colors | [4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
