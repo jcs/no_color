@@ -106,6 +106,7 @@ color via `NO_COLOR`.
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
+| [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
