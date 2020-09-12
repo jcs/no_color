@@ -102,6 +102,7 @@ color via `NO_COLOR`.
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
 | [PyDERASN](http://pyderasn.cypherpunks.ru/) | Python ASN.1 DER library | [2018-02-14](https://git.cypherpunks.ru/cgit.cgi/pyderasn.git/commit/?id=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
+| [ShellSpec](https://shellspec.info/) | A full-featured BDD unit testing framework for shell scripts | [0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [4.4.0](https://symfony.com/releases/4.4) |
