@@ -47,7 +47,7 @@ color via `NO_COLOR`.
 | [Dye](https://github.com/dduan/Dye) | Cross-platform terminal styling for Swift command-line interface | [0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
 | [kleur](https://github.com/lukeed/kleur) | A Node.js library for formatting terminal text with ANSI colors | [4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
-| [MatthiWare.CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# Command Line Parser Library | [0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
+| [MatthiWare. CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# Command Line Parser Library | [0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
@@ -67,7 +67,7 @@ color via `NO_COLOR`.
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [4.1.0](https://github.com/cakephp/cakephp/pull/14158) |
 | [cdist](https://www.cdi.st/) | Usable configuration management | [6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
-| [chezmoi](https://chezmoi.io/) | Manage your dotfiles across multiple machines, securely. | [1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
+| [chezmoi](https://chezmoi.io/) | Manage dotfiles across multiple machines, securely | [1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
 | [Cras](https://sr.ht/~emvigo/cras) | Cras: The Anti-Procrastination Tool | [0.1.0](https://git.sr.ht/~emvigo/cras/tree/0.1.0) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
