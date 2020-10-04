@@ -61,6 +61,7 @@ color via `NO_COLOR`.
 |:-|:-|:-|
 | [alogview](https://github.com/flimberger/alogview) | Android logcat Filter | [2018-10-31](https://github.com/flimberger/alogview/commit/785e5608711d92a1c41733f9ecfa3ed2d335a940) |
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | Scala Scripting | [1.0.0](https://github.com/lihaoyi/Ammonite/releases/tag/1.0.0) |
+| [Archey 4](https://github.com/HorlogeSkynet/archey4) | Python system information tool | [4.8.0](https://github.com/HorlogeSkynet/archey4/releases/tag/v4.8.0) |
 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with syntax highlighting and Git integration | [0.16.0](https://github.com/sharkdp/bat/releases/tag/v0.16.0) |
 | [beets](https://github.com/beetbox/beets) | Music library manager and MusicBrainz tagger | [1.4.9](https://github.com/beetbox/beets/releases/tag/v1.4.9) |
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
