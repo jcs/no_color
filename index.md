@@ -75,6 +75,7 @@ color via `NO_COLOR`.
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
+| [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
