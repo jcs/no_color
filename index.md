@@ -54,6 +54,7 @@ color via `NO_COLOR`.
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
 | [termcolor](https://github.com/BurntSushi/termcolor) | Rust crate for cross platform terminal colors | [1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
 | [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | [1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
+| [chalk](https://github.com/chalk/chalk) | NPM package for terminal string styling | [0.1.0](https://github.com/chalk/chalk/releases/tag/v0.1.0) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable default color output
