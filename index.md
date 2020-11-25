@@ -88,6 +88,7 @@ color via `NO_COLOR`.
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
 | [Homebrew](https://brew.sh/) | Package manager for macOS | [1.5.5](https://github.com/Homebrew/brew/releases/tag/1.5.5) |
+| [hx](https://github.com/sitkevij/hex) | Futuristic take on hexdump, made in Rust | [0.4.0](https://github.com/sitkevij/hex/releases/tag/v0.4.0) |
 | [KBSecret](https://kbsecret.github.io/) | Secret manager backed by Keybase and KBFS | [1.4.0](https://github.com/kbsecret/kbsecret/commit/d5296054d979a1b1ce07c1be78d56d3d29b62384) |
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
