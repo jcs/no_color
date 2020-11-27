@@ -40,6 +40,7 @@ color via `NO_COLOR`.
 
 | Software | Description | Version/Date Supported |
 |:-|:-|:-|
+| [chalk](https://github.com/chalk/chalk) | NPM package for terminal string styling | [0.1.0](https://github.com/chalk/chalk/releases/tag/v0.1.0) |
 | [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | [2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
@@ -54,7 +55,6 @@ color via `NO_COLOR`.
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
 | [termcolor](https://github.com/BurntSushi/termcolor) | Rust crate for cross platform terminal colors | [1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
 | [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | [1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
-| [chalk](https://github.com/chalk/chalk) | NPM package for terminal string styling | [0.1.0](https://github.com/chalk/chalk/releases/tag/v0.1.0) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable default color output
