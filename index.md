@@ -40,6 +40,7 @@ color via `NO_COLOR`.
 
 | Software | Description | Version/Date Supported |
 |:-|:-|:-|
+| [chalk](https://github.com/chalk/chalk) | NPM package for terminal string styling | [0.1.0](https://github.com/chalk/chalk/releases/tag/v0.1.0) |
 | [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | [2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
