@@ -70,7 +70,7 @@ color via `NO_COLOR`.
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
-| [Bullseye](https://github.com/adamralph/bullseye) | A .NET library for running a target dependency graph. | [3.6.0](https://github.com/adamralph/bullseye/blob/master/CHANGELOG.md#360) |
+| [Bullseye](https://github.com/adamralph/bullseye) | A .NET library for running a target dependency graph | [3.6.0](https://github.com/adamralph/bullseye/blob/master/CHANGELOG.md#360) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [4.1.0](https://github.com/cakephp/cakephp/pull/14158) |
 | [cdist](https://www.cdi.st/) | Usable configuration management | [6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
 | [chezmoi](https://chezmoi.io/) | Manage dotfiles across multiple machines, securely | [1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
