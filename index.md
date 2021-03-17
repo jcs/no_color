@@ -113,6 +113,7 @@ color via `NO_COLOR`.
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [2018-08-04 / 4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
 | [o](https://github.com/xyproto/o) | Small, fast, and limited text editor | [2020-01-06 / 2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
+| [pipewire](https://pipewire.org/) | PipeWire multimedia server | [2021-03-13 / 0.3.24](https://https://gitlab.freedesktop.org/pipewire/pipewire/-/commit/c974318686ced66546861494509d2ee93fc110d9) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
