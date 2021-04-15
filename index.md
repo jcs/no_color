@@ -134,6 +134,7 @@ color via `NO_COLOR`.
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [2020-06-20 / 0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 | [xh](https://github.com/ducaale/xh) | Friendly and fast tool for sending HTTP requests | [2021-02-28 / 0.8.0](https://github.com/ducaale/xh/releases/tag/v0.8.0) |
 {: rules="groups"}
+| [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
 
 ## Disabling color in software not supporting `NO_COLOR`
 
