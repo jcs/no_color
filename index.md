@@ -115,12 +115,12 @@ color via `NO_COLOR`.
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [2020-01-17 / 1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [2020-01-27 / 1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
+| [F2](https://github.com/ayoisaiah/f2) | Safe and fast cross-platform bulk-rename tool | [2021-05-04 / 1.5.7](https://github.com/ayoisaiah/f2/releases/tag/v1.5.7) |
 | [fastlane](https://fastlane.tools) | The easiest way to build and release mobile apps | [2020-11-19 / 2.168.0](https://github.com/fastlane/fastlane/releases/tag/2.168.0) |
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
-| [F2](https://github.com/ayoisaiah/f2) | Safe and fast cross-platform bulk-rename tool | [2021-05-04 / 1.5.7](https://github.com/ayoisaiah/f2/releases/tag/v1.5.7) |
 | [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
 | [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16](https://github.com/cli/cli/pull/1631) |
