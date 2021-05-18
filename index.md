@@ -33,6 +33,36 @@ To add software to this site,
 [clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
+## Frequently Asked Questions
+
+1. **Why not just set `$TERM` to `dumb` or `xterm` without color support?
+Or change all color definitions in the terminal to print black?**
+
+	The terminal is capable of color and should be able to print color when
+	instructed.
+	`NO_COLOR` is a hint to the software running in the terminal to suppress
+	addition of color, not to the terminal to prevent any color from being
+	shown.
+
+	It is reasonable to configure certain software such as a text editor to use
+	color or other ANSI attributes sparingly (such as the reverse attribute for
+	a status bar) while still desiring that other software not add color unless
+	configured to.
+	It should be up to the user whether color is used, not the software author.
+
+2. **How should configuration files and command-line arguments be processed
+in the presence of `$NO_COLOR`?**
+
+	User-level configuration files and per-instance command-line arguments
+	should override `$NO_COLOR`.
+	A user should be able to export `$NO_COLOR` in their shell configuration
+	file as a default, but configure a specific program in its configuration
+	file to specifically enable color.
+
+	This also means that software that *can* add color but doesn't by default
+	does not need to care about `$NO_COLOR`, because it will only ever be
+	adding color when instructed to do so (as it should be).
+
 ## Color libraries supporting `NO_COLOR` to disable default color output
 
 Software using these libraries to output color inherently support disabling
@@ -165,33 +195,3 @@ color via `NO_COLOR`.
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
 {: rules="groups"}
-
-## Frequently Asked Questions
-
-1. **Why not just set `$TERM` to `dumb` or `xterm` without color support?
-Or change all color definitions in the terminal to print black?**
-
-	The terminal is capable of color and should be able to print color when
-	instructed.
-	`NO_COLOR` is a hint to the software running in the terminal to suppress
-	addition of color, not to the terminal to prevent any color from being
-	shown.
-
-	It is reasonable to configure certain software such as a text editor to use
-	color or other ANSI attributes sparingly (such as the reverse attribute for
-	a status bar) while still desiring that other software not add color unless
-	configured to.
-	It should be up to the user whether color is used, not the software author.
-
-2. **How should configuration files and command-line arguments be processed
-in the presence of `$NO_COLOR`?**
-
-	User-level configuration files and per-instance command-line arguments
-	should override `$NO_COLOR`.
-	A user should be able to export `$NO_COLOR` in their shell configuration
-	file as a default, but configure a specific program in its configuration
-	file to specifically enable color.
-
-	This also means that software that *can* add color but doesn't by default
-	does not need to care about `$NO_COLOR`, because it will only ever be
-	adding color when instructed to do so (as it should be).
