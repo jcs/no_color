@@ -112,6 +112,7 @@ color via `NO_COLOR`.
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [2019-09-23 / 1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [2019-05-23 / 0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [2019-02-09 / 0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
+| [Diun](https://github.com/crazy-max/diun) | Docker Image Update Notifier | [2021-05-26 / 4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [2020-01-17 / 1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [2020-01-27 / 1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
