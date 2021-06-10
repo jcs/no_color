@@ -152,7 +152,7 @@ color via `NO_COLOR`.
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
-| [PyDERASN](http://pyderasn.cypherpunks.ru/) | Python ASN.1 DER library | [2018-02-14](https://git.cypherpunks.ru/cgit.cgi/pyderasn.git/commit/?id=54876436a23f14951f2e6353e9072c9a098b35b4) |
+| [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Line-oriented search tool | [2020-01-11 / 12.0.0](https://github.com/BurntSushi/ripgrep/commit/5a6e17fcc133f70f922a123483d0d5a158c041b0) |
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
