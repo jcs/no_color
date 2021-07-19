@@ -161,6 +161,7 @@ color via `NO_COLOR`.
 | [ShellSpec](https://shellspec.info/) | A full-featured BDD unit testing framework for shell scripts | [2020-06-21/ 0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
+| [soupault](https://soupault.app) | Static website generator based on HTML rewriting | [2021-07-19 / 3.0.0](https://soupault.app/blog/soupault-3.0.0-release/) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
