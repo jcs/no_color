@@ -31,7 +31,7 @@ and submit a pull request.
 ## Frequently Asked Questions
 
 1. **Why not just set `$TERM` to `dumb` or `xterm` without color support?
-Or change all color definitions in the terminal to print black?**
+Or change all color definitions in the terminal to print the same color?**
 
 	The terminal is capable of color and should be able to print color when
 	instructed.
