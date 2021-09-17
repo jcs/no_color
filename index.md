@@ -16,7 +16,7 @@ of disabling colored text output and some software has no way at all.
 Accepting the futility of trying to reverse this trend, an informal standard
 is hereby proposed:
 
-> **All command-line software which outputs text with ANSI color added should
+> **Command-line software which adds ANSI color to its output by default should
 check for the presence of a `NO_COLOR` environment variable that, when present
 (regardless of  its value), prevents the addition of ANSI color.**
 
@@ -24,12 +24,7 @@ By adopting this standard, users that prefer to have plain, non-colored text
 output can set one environment variable in their shell to have it automatically
 affect all supported software.
 
-This website will document which software has adopted this standard and when
-support was added.
-For software that has not or will not adopt this standard, an attempt will be
-made to document how to otherwise disable color.
-
-To add software to this site,
+To add to this list of supported software,
 [clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
