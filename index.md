@@ -78,6 +78,7 @@ color via `NO_COLOR`.
 | [go-ansi](https://git.sr.ht/~poldi1405/go-ansi/) | Go Package for easy text formatting | [2021-05-18 / 1.4.0](https://git.sr.ht/~poldi1405/go-ansi/commit/5d3db1d715a4ab8b00dda60b9b87054a4146c1aa)
 | [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [MatthiWare. CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# Command Line Parser Library | [2020-07-21 / 0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
+| [Nano Colors](https://github.com/ai/nanocolors) | Node.js library for formatting terminal text with ANSI colors | [2021-09-21 / 0.1.0](https://github.com/ai/nanocolors/releases/tag/0.1.0) |
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [pastel](https://github.com/piotrmurach/pastel) | Ruby gem for terminal output styling | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
