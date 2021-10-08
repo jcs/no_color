@@ -84,6 +84,7 @@ color via `NO_COLOR`.
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [pastel](https://github.com/piotrmurach/pastel) | Ruby gem for terminal output styling | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET Core library for coloring console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
+| [Spectre.Console](https://github.com/spectreconsole/spectre.console) | A .NET library that makes it easier to create beautiful console applications | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [2020-01-17 / 5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
 | [termcolor](https://github.com/BurntSushi/termcolor) | Rust crate for cross platform terminal colors | [2020-01-11 / 1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
 | [termenv](https://github.com/muesli/termenv) | Go package for text styling, terminal detection and color conversions | [2021-06-24 / 0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0) |
