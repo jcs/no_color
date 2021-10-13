@@ -189,6 +189,7 @@ color via `NO_COLOR`.
 | Software | Method |
 |:-|:-|
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
+| [Apt](https://tracker.debian.org/pkg/apt) | `apt -o DPkg::Progress-Fancy=false -o APT::Color=false` or add `Binary::apt::DPkg::Progress-Fancy "false";` and `Binary::apt::APT::Color "false";` to a new file in `/etc/apt/apt.conf.d` |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
