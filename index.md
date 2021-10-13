@@ -68,6 +68,7 @@ color via `NO_COLOR`.
 | [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
+| [Colorette](https://github.com/jorgebucaran/colorette) | Easily set your terminal text color & styles in Node.js | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
 | [colors-option](https://github.com/ehmicky/colors-option) | NPM package for colors and formatting based on chalk | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [crayon.js](https://github.com/crayon-js/crayon) | Modular Deno module and NPM package for terminal styling | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
