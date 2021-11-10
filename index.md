@@ -102,6 +102,7 @@ color via `NO_COLOR`.
 | [Ansible](https://github.com/ansible/ansible) | IT automation system | [2021-04-26 / 2.11.0](https://github.com/ansible/ansible/blob/stable-2.11/changelogs/CHANGELOG-v2.11.rst#v2-11-0) |
 | [Archey 4](https://github.com/HorlogeSkynet/archey4) | Python system information tool | [2020-09-26 / 4.8.0](https://github.com/HorlogeSkynet/archey4/releases/tag/v4.8.0) |
 | [Arduino CLI](https://github.com/arduino/arduino-cli) | Arduino command line tool  | [2021-09-02 / 0.19.0](https://github.com/arduino/arduino-cli/releases/tag/0.19.0) |
+| [Bashly](https://bashly.dannyb.co/) | Bash command line framework and CLI generator  | [2021-10-26 / 0.6.9](https://github.com/DannyBen/bashly/releases/tag/v0.6.9) |
 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with syntax highlighting and Git integration | [2020-10-02 / 0.16.0](https://github.com/sharkdp/bat/releases/tag/v0.16.0) |
 | [beets](https://github.com/beetbox/beets) | Music library manager and MusicBrainz tagger | [2019-05-30 / 1.4.9](https://github.com/beetbox/beets/releases/tag/v1.4.9) |
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [2019-05-06 / 1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
@@ -172,6 +173,7 @@ color via `NO_COLOR`.
 | [soupault](https://soupault.app) | Static website generator based on HTML rewriting | [2021-07-19 / 3.0.0](https://soupault.app/blog/soupault-3.0.0-release/) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
+| [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools for Debian, Arch Linux, Tearch and Sulin | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
