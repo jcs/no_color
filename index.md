@@ -118,7 +118,7 @@ color via `NO_COLOR`.
 | [Cronie](https://github.com/cronie-crond/cronie) | Cronie cron daemon project | [2021-03-19](https://github.com/cronie-crond/cronie/commit/765a745c6497f8cde51c39db7b1bb88686b90a9c) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [2019-09-23 / 1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [2019-05-23 / 0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
-| [debian-subsystem](https://gitlab.com/sulincix/debian-subsystem) | Use debian subsystem on other gnu/linux distribution with desktop integrations. | [2021-11-09](https://gitlab.com/sulincix/debian-subsystem/-/commit/813292e0498800e01bd4039678511c1097c2147f) |
+| [debian-subsystem](https://gitlab.com/sulincix/debian-subsystem) | Use Debian subsystem on other GNU/Linux distributions with desktop integration | [2021-11-09](https://gitlab.com/sulincix/debian-subsystem/-/commit/813292e0498800e01bd4039678511c1097c2147f) |
 | [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) | Web server that uses HTTP dumps as a source for responses | [2021-09-17 / 1.0.13](https://github.com/xnbox/DeepfakeHTTP/releases/tag/v1.0.13) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [2019-02-09 / 0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [Diun](https://github.com/crazy-max/diun) | Docker Image Update Notifier | [2021-05-26 / 4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0) |
