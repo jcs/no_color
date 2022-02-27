@@ -9,7 +9,7 @@ An increasing number of command-line software programs output text with
 [ANSI color](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
 escape codes by default.
 While some developers and users obviously prefer seeing these colors,
-many users don't.
+some users don't.
 Unfortunately, every new piece of software seems to have a different way
 of disabling colored text output and some software has no way at all.
 
