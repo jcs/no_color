@@ -143,6 +143,7 @@ color via `NO_COLOR`.
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [2018-06-06 / 1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
+| [Hajime](https://github.com/Slackadays/Hajime) | Advanced Minecraft server wrapper | [2022-2-27](https://github.com/Slackadays/Hajime/commit/7ff89c1d29d901ab0dc47474ee85619fbfbbd226) |
 | [Homebrew](https://brew.sh/) | Package manager for macOS | [2018-02-27 / 1.5.5](https://github.com/Homebrew/brew/releases/tag/1.5.5) |
 | [Hspec](http://hspec.github.io/) | Testing framework for Haskell | [2021-05-12 / 1.8.1](https://github.com/hspec/hspec/blob/main/CHANGES.markdown#changes-in-281) |
 | [htmltest](https://github.com/wjdp/htmltest) | Tests generated HTML for issues | [2021-01-16 / 0.14.0](https://github.com/wjdp/htmltest/releases/tag/v0.14.0) |
