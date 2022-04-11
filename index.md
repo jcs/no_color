@@ -67,6 +67,7 @@ color via `NO_COLOR`.
 |:-|:-|:-|
 | [ansis](https://github.com/webdiscus/ansis) | NPM package for ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
 | [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
+| [click-extra](https://github.com/kdeldycke/click-extra) | Collection of utilities for Click, the Python CLI framework | [2022-04-11 / 2.0.0](https://github.com/kdeldycke/click-extra/blob/main/changelog.md#gh200-2022-04-11-comparev190v200) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
 | [Colorette](https://github.com/jorgebucaran/colorette) | Easily set your terminal text color & styles in Node.js | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
