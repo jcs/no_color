@@ -3,6 +3,12 @@
 For information on the `NO_COLOR` standard, see
 [no-color.org](http://no-color.org).
 
+Maybe it would be a good idea to mention:
+
+- why the website does not mention its its source github repository
+- why the issue tracker is disabled on github
+- why the "spec" does not cover the obvious case of someone wanting to force use of color? Sorry, but while the initiative to propose standardization is awesome, leaving half of the problem undefined is not a good idea. Should NO_COLOR=0 or NO_COLOR=false force enablement of colors or not? If not, which approach should be used?
+
 ## Adding software
 
 To add or update software on the `no-color.org` website, clone this Git
