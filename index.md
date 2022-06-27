@@ -28,6 +28,26 @@ To add to this list of supported software,
 [clone this site's Git repository](https://github.com/jcs/no_color)
 and submit a pull request.
 
+## Example Implementation
+
+	#include <stdbool.h>
+	#include <stdio.h>
+	#include <stdlib.h>
+
+	int
+	main(int argc, char *argv[])
+	{
+		char *no_color = getenv("NO_COLOR");
+		bool color = true;
+
+		if (no_color != NULL && no_color[0] != '\0') {
+			color = false;
+		}
+
+		/* do getopt(3) and/or config-file parsing to possibly turn color back on */
+		...
+	}
+
 ## Frequently Asked Questions
 
 1. **Why not just set `$TERM` to `dumb` or `xterm` without color support?
