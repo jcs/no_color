@@ -17,8 +17,8 @@ Accepting the futility of trying to reverse this trend, an informal standard
 is hereby proposed:
 
 > **Command-line software which adds ANSI color to its output by default should
-check for the presence of a `NO_COLOR` environment variable that, when present
-(regardless of  its value), prevents the addition of ANSI color.**
+check for a `NO_COLOR` environment variable that, when present and not an empty
+string (regardless of its value), prevents the addition of ANSI color.**
 
 By adopting this standard, users that prefer to have plain, non-colored text
 output can set one environment variable in their shell to have it automatically
