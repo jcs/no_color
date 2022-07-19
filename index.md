@@ -131,6 +131,7 @@ color via `NO_COLOR`.
 | [alogview](https://github.com/flimberger/alogview) | Android logcat Filter | [2018-10-31](https://github.com/flimberger/alogview/commit/785e5608711d92a1c41733f9ecfa3ed2d335a940) |
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | Scala Scripting | [2017-07-03 / 1.0.0](https://github.com/lihaoyi/Ammonite/releases/tag/1.0.0) |
 | [Ansible](https://github.com/ansible/ansible) | IT automation system | [2021-04-26 / 2.11.0](https://github.com/ansible/ansible/blob/stable-2.11/changelogs/CHANGELOG-v2.11.rst#v2-11-0) |
+| [Apt](https://tracker.debian.org/pkg/apt) | Debian Package manager | [2021-10-10 / 2.3.11](http://metadata.ftp-master.debian.org/changelogs/main/a/apt/unstable_changelog) |
 | [Ansible Navigator](https://github.com/ansible/ansible-navigator) | IT automation interface | [2021-10-13 / 1.1.0](https://github.com/ansible/ansible-navigator/releases/tag/1.1.0) |
 | [Archey 4](https://github.com/HorlogeSkynet/archey4) | Python system information tool | [2020-09-26 / 4.8.0](https://github.com/HorlogeSkynet/archey4/releases/tag/v4.8.0) |
 | [Arduino CLI](https://github.com/arduino/arduino-cli) | Arduino command line tool  | [2021-09-02 / 0.19.0](https://github.com/arduino/arduino-cli/releases/tag/0.19.0) |
@@ -244,7 +245,6 @@ color via `NO_COLOR`.
 | Software | Method |
 |:-|:-|
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
-| [Apt](https://tracker.debian.org/pkg/apt) | `apt -o DPkg::Progress-Fancy=false -o APT::Color=false` or add `Binary::apt::DPkg::Progress-Fancy "false";` and `Binary::apt::APT::Color "false";` to a new file in `/etc/apt/apt.conf.d` |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
