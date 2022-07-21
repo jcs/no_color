@@ -142,6 +142,7 @@ color via `NO_COLOR`.
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [2019-05-06 / 1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
+| [buildkit](https://github.com/moby/buildkit) | Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit | [2022-07-20](https://github.com/moby/buildkit/commit/ebb1e827178a763f7f1150fc5a80a9b4f993d02f) |
 | [Bullseye](https://github.com/adamralph/bullseye) | A .NET library for running a target dependency graph | [2021-01-01 / 3.6.0](https://github.com/adamralph/bullseye/blob/master/CHANGELOG.md#360) |
 | [Cake](https://cakebuild.net) | A cross-platform build automation system with a C# DSL | [2021-03-06 / 1.1.0](https://cakebuild.net/docs/running-builds/configuration/default-configuration-values#disable-colors-in-output-text) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [2019-12-30 / 4.0.1](https://github.com/cakephp/cakephp/pull/14158) |
