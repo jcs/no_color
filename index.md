@@ -10,7 +10,8 @@ An increasing number of command-line software programs output text with
 escape codes by default.
 While some developers and users obviously prefer seeing these colors,
 some users don't.
-Unfortunately, every new piece of software seems to have a different way
+Unfortunately, every new piece of software seems to have a
+[different way](#other)
 of disabling colored text output and some software has no way at all.
 
 Accepting the futility of trying to reverse this trend, an informal standard
@@ -244,7 +245,7 @@ color via `NO_COLOR`.
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
 {: rules="groups"}
 
-## Disabling color in software not supporting `NO_COLOR`
+## Disabling color in software not supporting `NO_COLOR` <a name="other"></a>
 
 {:.two_col}
 | Software | Method |
