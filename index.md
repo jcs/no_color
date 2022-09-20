@@ -94,26 +94,26 @@ color via `NO_COLOR`.
 | [Colorette](https://github.com/jorgebucaran/colorette) | Easily set your terminal text color & styles in Node.js | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
 | [colors-option](https://github.com/ehmicky/colors-option) | NPM package for colors and formatting based on chalk | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
 | [console-ansi](https://github.com/dmnsgn/console-ansi) | Easy console coloring and prefixing via Proxy object with ANSI strings (for JavaScript) | [2022-06-14 / 1.3.0](https://github.com/dmnsgn/console-ansi/blob/main/CHANGELOG.md#130-2022-06-14) |
-| [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
+| [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08 / 1.5.1](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [crayon.js](https://github.com/crayon-js/crayon) | Modular Deno module and NPM package for terminal styling | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
 | [Dye](https://github.com/dduan/Dye) | Cross-platform terminal styling for Swift command-line interface | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
 | [Fude](https://github.com/msanguineti/fude) | Node.js library for terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
 | [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | Virtual terminal functionality, console traits, and useful primitives for .NET console apps | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
-| [gchalk](https://github.com/jwalton/gchalk) | Terminal string styling for Go with Windows 10 support | [2021-10-06 / v1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
-| [Getopt::EX::Colormap](https://metacpan.org/release/Getopt-EX) | Perl library for ANSI terminal color and command line option handling | [2021-09-27 / v1.25.0](https://metacpan.org/changes/release/UTASHIRO/Getopt-EX-v1.25.0)
+| [gchalk](https://github.com/jwalton/gchalk) | Terminal string styling for Go with Windows 10 support | [2021-10-06 / 1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
+| [Getopt::EX::Colormap](https://metacpan.org/release/Getopt-EX) | Perl library for ANSI terminal color and command line option handling | [2021-09-27 / 1.25.0](https://metacpan.org/changes/release/UTASHIRO/Getopt-EX-v1.25.0)
 | [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html) | Library for styling text output with CSS | [2019-08-13 / 0.21](https://github.com/autotools-mirror/gettext/commit/7040b13946b3dce5fbe2be8ecfda11e03eed7028)
 | [go-ansi](https://git.sr.ht/~poldi1405/go-ansi/) | Go Package for easy text formatting | [2021-05-18 / 1.4.0](https://git.sr.ht/~poldi1405/go-ansi/commit/5d3db1d715a4ab8b00dda60b9b87054a4146c1aa)
 | [GraalVM Native Image](https://www.graalvm.org/native-image/) | Ahead-of-time compilation of Java code to standalone executables | [2022-02-28 / 22.1.0](https://github.com/oracle/graal/commit/20f912e13cd97c3c3b527522b194a61eac71a93b)
 | [inquire](https://github.com/mikaelmello/inquire) | A Rust library for building interactive prompts | [2021-08-29 / 0.0.10](https://github.com/mikaelmello/inquire/releases/tag/v0.0.10) |
 | [kleur](https://github.com/lukeed/kleur) | A Node.js library for formatting terminal text with ANSI colors | [2020-08-12 / 4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
-| [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
+| [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | [2018-01-24 / 1.2.0](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
 | [MatthiWare. CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# Command Line Parser Library | [2020-07-21 / 0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
 | [Nano Colors](https://github.com/ai/nanocolors) | Node.js library for formatting terminal text with ANSI colors | [2021-09-21 / 0.1.0](https://github.com/ai/nanocolors/releases/tag/0.1.0) |
 | [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [pastel](https://github.com/piotrmurach/pastel) | Ruby gem for terminal output styling | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET library for coloring console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
-| [PyTermGUI](https://github.com/bczsalba/pytermgui/) | A simple yet powerful Python TUI framework with a markup language, mouse support and more | [v4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
-| [rich](https://github.com/Textualize/rich) | Python library for rich text and beautiful formatting | [v11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
+| [PyTermGUI](https://github.com/bczsalba/pytermgui/) | A simple yet powerful Python TUI framework with a markup language, mouse support and more | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
+| [rich](https://github.com/Textualize/rich) | Python library for rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
 | [sgr](https://github.com/datafl4sh/sgr) | C++ stream manipulators for colored text output and more | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
 | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | A .NET library that makes it easier to create beautiful console applications | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | [2020-01-17 / 5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
@@ -140,8 +140,8 @@ color via `NO_COLOR`.
 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with syntax highlighting and Git integration | [2020-10-02 / 0.16.0](https://github.com/sharkdp/bat/releases/tag/v0.16.0) |
 | [beets](https://github.com/beetbox/beets) | Music library manager and MusicBrainz tagger | [2019-05-30 / 1.4.9](https://github.com/beetbox/beets/releases/tag/v1.4.9) |
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [2019-05-06 / 1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
-| [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
-| [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
+| [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27 / 0.9](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
+| [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02 / 1.5.3](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [buildkit](https://github.com/moby/buildkit) | Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit | [2022-07-20](https://github.com/moby/buildkit/commit/ebb1e827178a763f7f1150fc5a80a9b4f993d02f) |
 | [Bullseye](https://github.com/adamralph/bullseye) | A .NET library for running a target dependency graph | [2021-01-01 / 3.6.0](https://github.com/adamralph/bullseye/blob/master/CHANGELOG.md#360) |
 | [Cake](https://cakebuild.net) | A cross-platform build automation system with a C# DSL | [2021-03-06 / 1.1.0](https://cakebuild.net/docs/running-builds/configuration/default-configuration-values#disable-colors-in-output-text) |
@@ -149,19 +149,19 @@ color via `NO_COLOR`.
 | [cdist](https://www.cdi.st/) | Usable configuration management | [2020-06-17 / 6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
 | [checkit](https://gitgud.io/BoraxMan/checkit) | File integrity tool for Linux and Unix systems. | [2022-09-08 / 0.5.1](https://gitgud.io/BoraxMan/checkit/-/tags/v0.5.1) |
 | [chezmoi](https://chezmoi.io/) | Manage dotfiles across multiple machines, securely | [2020-05-06 / 1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
-| [CliFM](https://github.com/leo-arch/clifm) | The command line file manager | [2021-14-12](https://github.com/leo-arch/clifm/commit/c9e0a1384c8f410922731341a3e8ebfe8b98ec27)
+| [CliFM](https://github.com/leo-arch/clifm) | The command line file manager | [2021-14-12 / 1.7](https://github.com/leo-arch/clifm/commit/c9e0a1384c8f410922731341a3e8ebfe8b98ec27)
 | [Cras](https://sr.ht/~arivigo/cras/) | Cras: The Anti-Procrastination Tool | [2020-06-05 / 0.1.0](https://git.sr.ht/~arivigo/cras/refs/1.0.1) |
 | [c-ray](https://github.com/vkoskiv/c-ray) | The small C raytracer | [2021-09-24](https://github.com/vkoskiv/c-ray/commit/cd321107a650c68bfa62911f8baf691397e28898) |
-| [Cronie](https://github.com/cronie-crond/cronie) | Cronie cron daemon project | [2021-03-19](https://github.com/cronie-crond/cronie/commit/765a745c6497f8cde51c39db7b1bb88686b90a9c) |
+| [Cronie](https://github.com/cronie-crond/cronie) | Cronie cron daemon project | [2021-03-19 / 1.6.1](https://github.com/cronie-crond/cronie/commit/765a745c6497f8cde51c39db7b1bb88686b90a9c) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [2019-09-23 / 1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [2019-05-23 / 0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
-| [DDraceNetwork](https://ddnet.tw/) | Cooperative multiplayer game | [2022-02-27](https://github.com/ddnet/ddnet/commit/b3e7164905dd227f9ab1c0eb9d7ab878ece7e971) |
+| [DDraceNetwork](https://ddnet.tw/) | Cooperative multiplayer game | [2022-02-27 / 5.1](https://github.com/ddnet/ddnet/commit/b3e7164905dd227f9ab1c0eb9d7ab878ece7e971) |
 | [debian-subsystem](https://gitlab.com/sulincix/debian-subsystem) | Use Debian subsystem on other GNU/Linux distributions with desktop integration | [2021-11-09](https://gitlab.com/sulincix/debian-subsystem/-/commit/813292e0498800e01bd4039678511c1097c2147f) |
 | [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) | Web server that uses HTTP dumps as a source for responses | [2021-09-17 / 1.0.13](https://github.com/xnbox/DeepfakeHTTP/releases/tag/v1.0.13) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [2019-02-09 / 0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [Diun](https://github.com/crazy-max/diun) | Docker Image Update Notifier | [2021-05-26 / 4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [2020-01-17 / 1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
-| [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
+| [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24 / 1.1.0](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [2020-01-27 / 1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
 | [exa](https://github.com/ogham/exa) | A modern replacement for ls | [2021-12-06](https://github.com/ogham/exa/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
 | [F2](https://github.com/ayoisaiah/f2) | Safe and fast cross-platform bulk-rename tool | [2021-05-04 / 1.5.7](https://github.com/ayoisaiah/f2/releases/tag/v1.5.7) |
@@ -170,18 +170,18 @@ color via `NO_COLOR`.
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
-| [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
+| [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05 / 2.20.0](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
-| [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16](https://github.com/cli/cli/pull/1631) |
+| [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16 / 1.0.0](https://github.com/cli/cli/commit/6d0da077b656354865360253dc7c482a1dbaa224) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
-| [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
+| [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11 / 2.3](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [2018-06-06 / 1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
 | [gwen](https://github.com/gwen-interpreter/gwen) | Automation and robotics for Gherkin | [2021-11-16 / 3.0.0](https://github.com/gwen-interpreter/gwen/releases/tag/v3.0.0) |
 | [Hajime](https://github.com/Slackadays/Hajime) | Advanced Minecraft server wrapper | [2022-2-27](https://github.com/Slackadays/Hajime/commit/7ff89c1d29d901ab0dc47474ee85619fbfbbd226) |
 | [Homebrew](https://brew.sh/) | Package manager for macOS | [2018-02-27 / 1.5.5](https://github.com/Homebrew/brew/releases/tag/1.5.5) |
 | [Hspec](https://hspec.github.io/) | Testing framework for Haskell | [2021-05-12 / 1.8.1](https://github.com/hspec/hspec/blob/main/CHANGES.markdown#changes-in-281) |
 | [htmltest](https://github.com/wjdp/htmltest) | Tests generated HTML for issues | [2021-01-16 / 0.14.0](https://github.com/wjdp/htmltest/releases/tag/v0.14.0) |
-| [Hugo](https://github.com/gohugoio/hugo) | Framework for building websites | [v0.101.0](https://github.com/gohugoio/hugo/releases/tag/v0.101.0) |
+| [Hugo](https://github.com/gohugoio/hugo) | Framework for building websites | [2022-06-16 / 0.101.0](https://github.com/gohugoio/hugo/releases/tag/v0.101.0) |
 | [Hurl](https://hurl.dev) | Run and test HTTP requests with plain text and curl | [2022-09-13 / 1.7.0](https://github.com/Orange-OpenSource/hurl/releases/tag/1.7.0) |
 | [hx](https://github.com/sitkevij/hex) | Futuristic take on hexdump, made in Rust | [2020-11-22 / 0.4.0](https://github.com/sitkevij/hex/releases/tag/v0.4.0) |
 | [inary](https://gitlab.com/sulinos/devel/inary) | A package manager for SulinOS | [2021-10-18](https://gitlab.com/sulinos/devel/inary/-/commit/29cbfcd8a8b50683d6726fd7b060af005d1b9c80)
@@ -191,45 +191,45 @@ color via `NO_COLOR`.
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [2018-06-06 / 0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [2019-01-19 / 4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
 | [lbt](https://gitlab.com/gardenappl/lbt) | Friendly tools for interacting with the LBRY network | [2022-03-31 / 2.1.2](https://gitlab.com/gardenappl/lbt/-/releases/v2.1.2)
-| [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
+| [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18 / 0.9.1](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
 | [LicensePlist](https://github.com/mono0926/LicensePlist) | License list generator for Apple developer | [3.23.3](https://github.com/mono0926/LicensePlist/releases/tag/3.23.3) |
 | [Lintian](https://lintian.debian.org) | Friendly packaging advice for Debian contributors | [2021-12-12 / 2.114.87](https://salsa.debian.org/lintian/lintian/-/commit/275a48e628120100a38cbcd5a4f7f5b70c5ab47d) |
-| [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
+| [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29 / 1.5.1](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
-| [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
-| [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
-| [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
+| [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
+| [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
+| [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18 / 5.0.0](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [2020-04-07 / 4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
-| [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
+| [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02 / 1.8.10](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
 | [Nette Tester](https://tester.nette.org/) | Testing library for PHP | [2020-08-03 / 2.3.3](https://github.com/nette/tester/releases/tag/v2.3.3) |
-| [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
+| [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29 / 1.5.0](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
 | [Nix](https://nixos.org/) | The purely functional package manager | [2021-11-01 / 2.4.0](https://github.com/NixOS/nix/pull/4971) |
-| [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
+| [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05 / 4.6](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [2018-03-24 / 5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [2018-08-04 / 4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
 | [o](https://github.com/xyproto/o) | Small, fast, and limited text editor | [2020-01-06 / 2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
 | [opass](https://github.com/wiremoons/opass) | Offer password suggestions | [2021-06-12 / 0.9.1](https://github.com/wiremoons/opass/commit/02c593d510b23a1b8e5af40d04a475eeb5755491) |
-| [ouch](https://github.com/ouch-org/ouch) | Painless CLI compression and decompression | [2021-09-17](https://github.com/ouch-org/ouch/commit/b099e4ac206d09d345315a01688e31493c0e141a) |
+| [ouch](https://github.com/ouch-org/ouch) | Painless CLI compression and decompression | [2021-09-17 / 0.3.1](https://github.com/ouch-org/ouch/commit/b099e4ac206d09d345315a01688e31493c0e141a) |
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [pipewire](https://pipewire.org/) | PipeWire multimedia server | [2021-03-13 / 0.3.24](https://gitlab.freedesktop.org/pipewire/pipewire/-/commit/c974318686ced66546861494509d2ee93fc110d9) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
-| [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
+| [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
-| [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
+| [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14 / 3.1](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Line-oriented search tool | [2020-01-11 / 12.0.0](https://github.com/BurntSushi/ripgrep/commit/5a6e17fcc133f70f922a123483d0d5a158c041b0) |
-| [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
+| [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09 / 0.7.3](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [irb](https://github.com/ruby/irb) | Official Ruby REPL | [2021-06-21 / 1.3.6](https://github.com/ruby/irb/releases/tag/v1.3.6)
 | [Scipion](http://scipion.i2pc.es) | CryoEM and CryoET image processing workflow engine | [2022-07-07 / 3.0.22](https://github.com/scipion-em/scipion-pyworkflow/tree/v3.0.22) |
-| [ShellSpec](https://shellspec.info/) | A full-featured BDD unit testing framework for shell scripts | [2020-06-21/ 0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
+| [ShellSpec](https://shellspec.info/) | A full-featured BDD unit testing framework for shell scripts | [2020-06-21 / 0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
 | [shuffle](https://github.com/hyperjeff/shuffle) | Command line music player | [2022-02-03 / 1.9.1](https://github.com/hyperjeff/homebrew-tools/releases/tag/v1.9.1) |
 | [sjasmplus](https://github.com/z00m128/sjasmplus) | Z80/Z80N/GameBoy cross-assembler | [2022-06-14 / 1.20.0](https://github.com/z00m128/sjasmplus/releases/tag/v1.20.0) |
-| [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
-| [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
+| [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05 / 1.0.0](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
+| [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24 / 2.3.2](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 | [soupault](https://soupault.app) | Static website generator based on HTML rewriting | [2021-07-19 / 3.0.0](https://soupault.app/blog/soupault-3.0.0-release/) |
 | [sqlfmt](https://sqlfmt.com) | Autoformatter for dbt SQL | [0.1.0](https://docs.sqlfmt.com/getting-started/configuring-sqlfmt#no-color-and-force-color) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
-| [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
+| [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10 / 1.19](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools for Debian, Arch Linux, Tearch and Sulin | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
