@@ -261,7 +261,7 @@ color via `NO_COLOR`.
 | [GCC](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-diagnostics-color` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
 | [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui))|
 | [GoAccess](https://goaccess.io/) | `goaccess --no-color` ([Docs](https://goaccess.io/man#options)) |
-| [GStreamer](https://gstreamer.freedesktop.org/) | `export GST_DEBUG_NO_COLOR=true` or `--gst-debug-no-color` ([Docs](https://developer.gnome.org/gstreamer/stable/gst-running.html)) |
+| [GStreamer](https://gstreamer.freedesktop.org/) | `export GST_DEBUG_NO_COLOR=true` or `--gst-debug-no-color` ([Docs](https://gstreamer.freedesktop.org/documentation/gstreamer/running.html)) |
 | [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
