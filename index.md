@@ -211,7 +211,7 @@ color via `NO_COLOR`.
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [2018-03-24 / 5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [2018-08-04 / 4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
 | [o](https://github.com/xyproto/o) | Small, fast, and limited text editor | [2020-01-06 / 2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
-| [OCaml compiler](https://github.com/ocaml/ocaml) | The [OCaml programming language](ocaml.org/) compiler | [2022-03-28 / 4.14.0](https://github.com/ocaml/ocaml/blob/4.14.0/Changes#L207-L210) |
+| [OCaml compiler](https://github.com/ocaml/ocaml) | The OCaml programming language compiler | [2022-03-28 / 4.14.0](https://github.com/ocaml/ocaml/blob/4.14.0/Changes#L207-L210) |
 | [opass](https://github.com/wiremoons/opass) | Offer password suggestions | [2021-06-12 / 0.9.1](https://github.com/wiremoons/opass/commit/02c593d510b23a1b8e5af40d04a475eeb5755491) |
 | [ouch](https://github.com/ouch-org/ouch) | Painless CLI compression and decompression | [2021-09-17 / 0.3.1](https://github.com/ouch-org/ouch/commit/b099e4ac206d09d345315a01688e31493c0e141a) |
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
