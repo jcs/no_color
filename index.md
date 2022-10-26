@@ -255,7 +255,7 @@ color via `NO_COLOR`.
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
-| [Chalk](https://github.com/chalk/chalk) | `FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
+| [Chalk](https://github.com/chalk/chalk) | `export FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
 | [CMake](https://cmake.org/) | Set `CMAKE_COLOR_MAKEFILE` to `OFF` ([Docs](https://cmake.org/cmake/help/latest/variable/CMAKE_COLOR_MAKEFILE.html)) |
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
