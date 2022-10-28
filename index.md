@@ -205,6 +205,7 @@ color via `NO_COLOR`.
 | [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [2020-04-07 / 4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
 | [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02 / 1.8.10](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
 | [Nette Tester](https://tester.nette.org/) | Testing library for PHP | [2020-08-03 / 2.3.3](https://github.com/nette/tester/releases/tag/v2.3.3) |
+| [newsraft](https://codeberg.org/grisha/newsraft) | Feed reader for terminal | [2022-08-14 / 0.8](https://codeberg.org/grisha/newsraft/releases/tag/newsraft-0.8) |
 | [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29 / 1.5.0](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
 | [Nix](https://nixos.org/) | The purely functional package manager | [2021-11-01 / 2.4.0](https://github.com/NixOS/nix/pull/4971) |
 | [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05 / 4.6](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
