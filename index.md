@@ -201,6 +201,7 @@ color via `NO_COLOR`.
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
+| [Meltano](https://github.com/meltano/meltano) | Data Ingestion, Transformation, and Management for Data Engineers | [2022-11-08 / v2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18 / 5.0.0](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [2020-04-07 / 4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
 | [mu](https://www.djcbsoftware.nl/code/mu/) | Maildir indexer/searcher | [2019-02-02 / 1.8.10](https://github.com/djcb/mu/commit/eb6efee81db22531ef05e140549bde7e87dd9725) |
