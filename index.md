@@ -271,6 +271,7 @@ color via `NO_COLOR`.
 | [GitHub](https://git-scm.com/) | `gh config set prompt disabled` ([Docs](https://cli.github.com/manual/gh_config))|
 | [GoAccess](https://goaccess.io/) | `goaccess --no-color` ([Docs](https://goaccess.io/man#options)) |
 | [GStreamer](https://gstreamer.freedesktop.org/) | `export GST_DEBUG_NO_COLOR=true` or `--gst-debug-no-color` ([Docs](https://gstreamer.freedesktop.org/documentation/gstreamer/running.html)) |
+| [luacheck](https://github.com/lunarmodules/luacheck) | `luacheck --no-color` ([Docs](https://luacheck.readthedocs.io/en/stable/cli.html)) |
 | [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
