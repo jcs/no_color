@@ -283,7 +283,7 @@ color via `NO_COLOR`.
 | [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true` |
 | [Radare](https://www.radare.org/r/) | `radare2 -e scr.color=0` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
-| [Ruby](https://www.ruby-lang.org/) tests | `export RUBY_TESTOPTS=--color=never` |
+| [Ruby (tests)](https://www.ruby-lang.org/) | `export RUBY_TESTOPTS=--color=never` |
 | [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([Rejected `NO_COLOR` Request](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
