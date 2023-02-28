@@ -255,6 +255,7 @@ color via `NO_COLOR`.
 | [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15 / 0.4.4](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
 | [zf](https://github.com/natecraddock/zf) | A commandline fuzzy finder that prioritizes matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
+| [Pacstall](https://pacstall.dev) | An AUR-inspired package manager for Ubuntu | [2023-02-27 / 3.7.0](https://github.com/pacstall/pacstall/releases/tag/3.7.0) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR` <a name="other"></a>
