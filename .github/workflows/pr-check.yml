@@ -1,4 +1,4 @@
-name: Check PR
+name: pr-check
 
 on:
   push:
