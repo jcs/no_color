@@ -34,7 +34,7 @@ def sort_and_check(arr, label)
   t2.write sorted.map{|l| l[0, DIFF_LINE_LEN] }.join("\n")
   t2.close
 
-  system("diff", "-ud", t.path, t2.path)
+  system("diff", "-U1", "-d", t.path, t2.path)
 
   t.unlink
   t2.unlink
