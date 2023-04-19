@@ -9,6 +9,7 @@ STATES = [
   :software,
   :header_3,
   :non_believers,
+  :trailer,
 ]
 
 DIFF_LINE_LEN = 80
@@ -54,16 +55,22 @@ File.open("index.md") do |f|
     lc += 1
 
     case state
-    when :header, :header_2
-      if line.match(/^\|:-\|:-\|:-/)
+    when :header, :header_2, :header_3
+      if line.match(/^\|:-\|:-/)
         state = next_state(state)
       end
     when :libraries, :software, :non_believers
       if line.match(/^\{: rules/)
         state = next_state(state)
       else
-        if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
-          puts "Line #{lc} does not match format | | |:", line
+        if state == :non_believers
+          if !line.match(/^\| [^\|]+ \| [^\|]+ \|$/)
+            puts "Line #{lc} does not match format | |:", line
+          end
+        else
+          if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
+            puts "Line #{lc} does not match format | | |:", line
+          end
         end
 
         case state
@@ -77,6 +84,8 @@ File.open("index.md") do |f|
           raise "bogus state?"
         end
       end
+    when :trailer
+      puts "Trailing junk at the end of the file on line #{lc}: #{line.inspect}"
     end
   end
 
