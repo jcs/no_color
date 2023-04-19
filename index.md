@@ -291,3 +291,4 @@ color via `NO_COLOR`.
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
 {: rules="groups"}
+
