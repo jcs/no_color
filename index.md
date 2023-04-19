@@ -275,8 +275,8 @@ color via `NO_COLOR`.
 | [FFmpeg](https://ffmpeg.org/) | `export AV_LOG_FORCE_NOCOLOR=true` ([Docs](https://ffmpeg.org/ffmpeg.html#toc-Generic-options)) |
 | [fzf](https://github.com/junegunn/fzf) | `fzf --color=bw` or `export FZF_DEFAULT_OPTS=--color=bw` ([Docs](https://github.com/junegunn/fzf/wiki/Color-schemes)) |
 | [GCC](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-diagnostics-color` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
-| [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui))|
-| [GitHub](https://git-scm.com/) | `gh config set prompt disabled` ([Docs](https://cli.github.com/manual/gh_config))|
+| [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui)) |
+| [GitHub](https://git-scm.com/) | `gh config set prompt disabled` ([Docs](https://cli.github.com/manual/gh_config)) |
 | [GoAccess](https://goaccess.io/) | `goaccess --no-color` ([Docs](https://goaccess.io/man#options)) |
 | [GStreamer](https://gstreamer.freedesktop.org/) | `export GST_DEBUG_NO_COLOR=true` or `--gst-debug-no-color` ([Docs](https://gstreamer.freedesktop.org/documentation/gstreamer/running.html)) |
 | [luacheck](https://github.com/lunarmodules/luacheck) | `luacheck --no-color` ([Docs](https://luacheck.readthedocs.io/en/stable/cli.html)) |
@@ -292,4 +292,3 @@ color via `NO_COLOR`.
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
 {: rules="groups"}
-
