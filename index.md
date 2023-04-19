@@ -220,6 +220,7 @@ color via `NO_COLOR`.
 | [Octopus Deploy CLI](https://github.com/OctopusDeploy/cli) | Command Line Interface for Octopus Deploy | [2022-11-23 / 0.6.0](https://github.com/OctopusDeploy/cli/tree/v0.6.0) |
 | [opass](https://github.com/wiremoons/opass) | Offer password suggestions | [2021-06-12 / 0.9.1](https://github.com/wiremoons/opass/commit/02c593d510b23a1b8e5af40d04a475eeb5755491) |
 | [ouch](https://github.com/ouch-org/ouch) | Painless CLI compression and decompression | [2021-09-17 / 0.3.1](https://github.com/ouch-org/ouch/commit/b099e4ac206d09d345315a01688e31493c0e141a) |
+| [Pacstall](https://pacstall.dev) | An AUR-inspired package manager for Ubuntu | [2023-02-27 / 3.7.0](https://github.com/pacstall/pacstall/releases/tag/3.7.0) |
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [pipewire](https://pipewire.org/) | PipeWire multimedia server | [2021-03-13 / 0.3.24](https://gitlab.freedesktop.org/pipewire/pipewire/-/commit/c974318686ced66546861494509d2ee93fc110d9) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
@@ -255,7 +256,6 @@ color via `NO_COLOR`.
 | [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15 / 0.4.4](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
 | [zf](https://github.com/natecraddock/zf) | A commandline fuzzy finder that prioritizes matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
-| [Pacstall](https://pacstall.dev) | An AUR-inspired package manager for Ubuntu | [2023-02-27 / 3.7.0](https://github.com/pacstall/pacstall/releases/tag/3.7.0) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR` <a name="other"></a>
