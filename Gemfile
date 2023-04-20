@@ -7,3 +7,4 @@ source "https://rubygems.org"
 #end
 
 gem "github-pages", group: :jekyll_plugins
+gem "webrick"
