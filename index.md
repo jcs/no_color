@@ -14,20 +14,24 @@ Unfortunately, every new piece of software seems to have a
 [different way](#other)
 of disabling colored text output and some software has no way at all.
 
-Accepting the futility of trying to reverse this trend, an informal standard
-is hereby proposed:
+Accepting the futility of trying to reverse this trend in 2017, an informal
+standard was proposed:
 
 > **Command-line software which adds ANSI color to its output by default should
 check for a `NO_COLOR` environment variable that, when present and not an empty
 string (regardless of its value), prevents the addition of ANSI color.**
 
 By adopting this standard, users that prefer to have plain, non-colored text
-output can set one environment variable in their shell to have it automatically
-affect all supported software.
+output can export `NO_COLOR=1` to their shell's environment and automatically
+disable color by default in all supported software.
 
-To add to this list of supported software,
-[clone this site's Git repository](https://github.com/jcs/no_color)
-and submit a pull request.
+If your software outputs color by default, please consider not doing so.
+If you insist, please implement this standard to make it easy for your
+users to disable color and then add your software to this list by
+[submitting a pull request](https://github.com/jcs/no_color).
+
+If your software does not output color by default, you do not need to bother
+with this standard.
 
 ## Example Implementation
 
@@ -41,9 +45,8 @@ and submit a pull request.
 		char *no_color = getenv("NO_COLOR");
 		bool color = true;
 
-		if (no_color != NULL && no_color[0] != '\0') {
+		if (no_color != NULL && no_color[0] != '\0')
 			color = false;
-		}
 
 		/* do getopt(3) and/or config-file parsing to possibly turn color back on */
 		...
@@ -82,9 +85,9 @@ in the presence of `$NO_COLOR`?**
 ## Color libraries supporting `NO_COLOR` to disable default color output
 
 Software using these libraries to output color inherently support disabling
-color via `NO_COLOR`.
+color by default via `NO_COLOR`.
 
-| Software | Description | Date/Version Supported |
+| Software | Description | Date / Version Supported |
 |:-|:-|:-|
 | [ansis](https://github.com/webdiscus/ansis) | NPM package for ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
 | [cfonts](https://github.com/dominikwilkowski/cfonts) | Rust and NPM package for colorful fonts in the console | [2022-05-28 / 3.0.0](https://github.com/dominikwilkowski/cfonts/releases/tag/v3.0.0-nodejs) |
@@ -127,9 +130,9 @@ color via `NO_COLOR`.
 | [XConsole](https://github.com/chubrik/XConsole) | .NET console with coloring, pinning & positioning, stable for multitasking and 9000+ lines | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
 {: rules="groups"}
 
-## Software directly supporting `NO_COLOR` to disable default color output
+## Software directly supporting `NO_COLOR` to disable color output by default
 
-| Software | Description | Date/Version Supported |
+| Software | Description | Date / Version Supported |
 |:-|:-|:-|
 | [alogview](https://github.com/flimberger/alogview) | Android logcat Filter | [2018-10-31](https://github.com/flimberger/alogview/commit/785e5608711d92a1c41733f9ecfa3ed2d335a940) |
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | Scala Scripting | [2017-07-03 / 1.0.0](https://github.com/lihaoyi/Ammonite/releases/tag/1.0.0) |
