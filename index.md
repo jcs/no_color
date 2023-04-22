@@ -270,6 +270,7 @@ color by default via `NO_COLOR`.
 |:-|:-|
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
+| [BSDDialog](https://gitlab.com/alfix/bsddialog) | `--theme blackwhite` ([Docs](https://alfonsosiciliano.gitlab.io/posts/2022-01-26-manual-bsddialog.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
 | [Chalk](https://github.com/chalk/chalk) | `export FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
 | [Clang](https://clang.llvm.org/) | `-fno-color-diagnostics` ([Docs](https://clang.llvm.org/docs/UsersManual.html#formatting-of-diagnostics)) |
@@ -287,6 +288,7 @@ color by default via `NO_COLOR`.
 | [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
+| [MixerTUI](https://gitlab.com/alfix/mixertui) | `-c` ([Docs](https://man.freebsd.org/mixertui/8)) |
 | [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true` |
 | [Radare](https://www.radare.org/r/) | `radare2 -e scr.color=0` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
