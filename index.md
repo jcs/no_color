@@ -239,6 +239,7 @@ color by default via `NO_COLOR`.
 | [Scipion](http://scipion.i2pc.es) | CryoEM and CryoET image processing workflow engine | [2022-07-07 / 3.0.22](https://github.com/scipion-em/scipion-pyworkflow/tree/v3.0.22) |
 | [ShellSpec](https://shellspec.info/) | A full-featured BDD unit testing framework for shell scripts | [2020-06-21 / 0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
 | [shuffle](https://github.com/hyperjeff/shuffle) | Command line music player | [2022-02-03 / 1.9.1](https://github.com/hyperjeff/homebrew-tools/releases/tag/v1.9.1) |
+ | [Sphinx](https://sphinx-doc.org/) | The Sphinx documentation generator | [2022-03-28 / 4.5.0]([URL](https://www.sphinx-doc.org/en/master/changes.html#release-4-5-0-released-mar-28-2022)) |
 | [sjasmplus](https://github.com/z00m128/sjasmplus) | Z80/Z80N/GameBoy cross-assembler | [2022-06-14 / 1.20.0](https://github.com/z00m128/sjasmplus/releases/tag/v1.20.0) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05 / 1.0.0](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24 / 2.3.2](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
