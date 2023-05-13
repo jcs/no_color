@@ -242,8 +242,8 @@ color by default via `NO_COLOR`.
 | [sjasmplus](https://github.com/z00m128/sjasmplus) | Z80/Z80N/GameBoy cross-assembler | [2022-06-14 / 1.20.0](https://github.com/z00m128/sjasmplus/releases/tag/v1.20.0) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05 / 1.0.0](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24 / 2.3.2](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
-| [Sphinx](https://sphinx-doc.org/) | The Sphinx documentation generator | [2022-03-28 / 4.5.0](https://www.sphinx-doc.org/en/master/changes.html#release-4-5-0-released-mar-28-2022) |
 | [soupault](https://soupault.app) | Static website generator based on HTML rewriting | [2021-07-19 / 3.0.0](https://soupault.app/blog/soupault-3.0.0-release/) |
+| [Sphinx](https://sphinx-doc.org/) | The Sphinx documentation generator | [2022-03-28 / 4.5.0](https://www.sphinx-doc.org/en/master/changes.html#release-4-5-0-released-mar-28-2022) |
 | [sqlfmt](https://sqlfmt.com) | Autoformatter for dbt SQL | [2021-11-05 / 0.1.0](https://docs.sqlfmt.com/getting-started/configuring-sqlfmt#no-color-and-force-color) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10 / 1.19](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
