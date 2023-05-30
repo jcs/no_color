@@ -263,6 +263,7 @@ color by default via `NO_COLOR`.
 | [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15 / 0.4.4](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
 | [zf](https://github.com/natecraddock/zf) | A commandline fuzzy finder that prioritizes matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
+| [zypper](https://github.com/openSUSE/zypper) | openSUSE package manager | [2022-06-15 / 1.14.53](https://github.com/openSUSE/zypper/commit/7a03e8594bb8dbf2af68decc4427d5244f68f46c) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR` <a name="other"></a>
