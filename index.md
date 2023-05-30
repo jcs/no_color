@@ -182,6 +182,7 @@ color by default via `NO_COLOR`.
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16 / 1.0.0](https://github.com/cli/cli/commit/6d0da077b656354865360253dc7c482a1dbaa224) |
 | [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11 / 2.3](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
+| [gojq](https://github.com/itchyny/gojq) | Pure Go implementation of jq | [2020-03-20 / 0.10.0](https://github.com/itchyny/gojq/commit/17bccf1feb25e428223a31a0cd65c2827e2ef0c1) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [2018-06-06 / 1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
 | [gplaces](https://github.com/dimkr/gplaces) | A simple terminal based Gemini client | [2022-06-05 / 0.16.19](https://github.com/dimkr/gplaces/commit/c907bdf719ad069da2f75daf01f371921f5fde0f) |
 | [GraalVM Native Image](https://www.graalvm.org/native-image/) | Compile Java applications ahead-of-time into binaries | [2022-02-28 / 22.1.0](https://github.com/oracle/graal/commit/20f912e13cd97c3c3b527522b194a61eac71a93b) |
