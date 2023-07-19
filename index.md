@@ -257,6 +257,7 @@ color by default via `NO_COLOR`.
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
 | [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree) | A recursive directory listing command | [2022-12-26 / 2.1.0](https://gitlab.com/OldManProgrammer/unix-tree/-/blob/22a2e268206b8d2238a686458c4702f9b3689e5b/CHANGES) |
+| [tsfm](https://npmjs.com/package/tsfm) | Light TUI file manager | [2023-07-19 2.4.0](https://github.com/akpi816218/tsfm/releases/tag/v2.4.0) |l
 | [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [2018-11-15 / 1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
@@ -301,6 +302,7 @@ color by default via `NO_COLOR`.
 | [Ruby (tests)](https://www.ruby-lang.org/) | `export RUBY_TESTOPTS=--color=never` |
 | [The Silver Searcher](https://geoff.greer.fm/ag/) | `ag --nocolor` ([Rejected `NO_COLOR` Request](https://github.com/ggreer/the_silver_searcher/pull/1207)) |
 | [Thor](http://whatisthor.com/) | `export THOR_SHELL=Basic` ([Docs](http://www.rubydoc.info/github/wycats/thor/Thor%2FBase.shell)) |
+| [tsfm](https://npmjs.com/package/tsfm) | `tsfm --no-color` |
 | [util-linux](https://github.com/karelzak/util-linux) | `touch /etc/terminal-colors.d/disable` ([Docs](http://man7.org/linux/man-pages/man5/terminal-colors.d.5.html)) |
 | [Vim](http://www.vim.org/) | `vim '+set t_Co=0'` |
 {: rules="groups"}
