@@ -177,7 +177,7 @@ color by default via `NO_COLOR`.
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
-| [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / v0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
+| [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
 | [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05 / 2.20.0](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
@@ -212,7 +212,7 @@ color by default via `NO_COLOR`.
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
-| [Meltano](https://github.com/meltano/meltano) | Data Ingestion, Transformation, and Management for Data Engineers | [2022-11-08 / v2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
+| [Meltano](https://github.com/meltano/meltano) | Data Ingestion, Transformation, and Management for Data Engineers | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18 / 5.0.0](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [mmCEsim](https://mmcesim.org) | Millimeter Wave Channel Estimation Simulation | [2023-03-31 / 0.2.1](https://github.com/mmcesim/mmcesim/releases/tag/v0.2.1) |
 | [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [2020-04-07 / 4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
@@ -268,7 +268,7 @@ color by default via `NO_COLOR`.
 | [xh](https://github.com/ducaale/xh) | Friendly and fast tool for sending HTTP requests | [2021-02-28 / 0.8.0](https://github.com/ducaale/xh/releases/tag/v0.8.0) |
 | [xidoc](https://xidoc.nim.town/) | A consistent and powerful markup language | [2023-01-09 / 2023.1.9](https://git.sr.ht/~xigoi/xidoc/refs/2023.1.9) |
 | [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15 / 0.4.4](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
-| [yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube client | [2023-04-22](https://github.com/mps-youtube/yewtube/commit/cd905ec5c5dabcb63b4c37a1a9e12cd74d360bb1)
+| [yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube client | [2023-04-22](https://github.com/mps-youtube/yewtube/commit/cd905ec5c5dabcb63b4c37a1a9e12cd74d360bb1) |
 | [zf](https://github.com/natecraddock/zf) | A commandline fuzzy finder that prioritizes matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
 | [zypper](https://github.com/openSUSE/zypper) | openSUSE package manager | [2022-06-15 / 1.14.53](https://github.com/openSUSE/zypper/commit/7a03e8594bb8dbf2af68decc4427d5244f68f46c) |
