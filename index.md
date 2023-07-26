@@ -14,8 +14,8 @@ Unfortunately, every new piece of software seems to have a
 [different way](#other)
 of disabling colored text output and some software has no way at all.
 
-Accepting the futility of trying to reverse this trend in 2017, an informal
-standard was proposed:
+Accepting the futility of trying to reverse this trend, an informal standard
+was proposed in 2017:
 
 > **Command-line software which adds ANSI color to its output by default should
 check for a `NO_COLOR` environment variable that, when present and not an empty
