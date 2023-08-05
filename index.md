@@ -224,6 +224,7 @@ color by default via `NO_COLOR`.
 | [NGLess](http://ngless.embl.de/) | Domain specific language for bioinformatics | [2018-10-29 / 1.5.0](https://github.com/ngless-toolkit/ngless/commit/15926150701100ff96b4a7cd1f3142f9a272b983) |
 | [Nix](https://nixos.org/) | The purely functional package manager | [2021-11-01 / 2.4.0](https://github.com/NixOS/nix/pull/4971) |
 | [nnn](https://github.com/jarun/nnn) | File manager | [2020-04-05 / 4.6](https://github.com/jarun/nnn/commit/f14fb9c0f92c25ab79dd0c47d16f075199aeb999) |
+| [nostt](https://github.com/sjmulder/nostt) | Teletext reader | [2023-08-03 / 1.3](https://github.com/sjmulder/nostt/releases/tag/1.3) |
 | [npm](https://www.npmjs.com/) | Package manager for JavaScript | [2018-03-24 / 5.8.0](https://github.com/npm/npm/releases/tag/v5.8.0) |
 | [nvh](https://github.com/JohnRGee/nvh) | Node Version Helper | [2018-08-04 / 4.1.0](https://github.com/JohnRGee/nvh/releases/tag/v4.1.0) |
 | [o](https://github.com/xyproto/o) | Small, fast, and limited text editor | [2020-01-06 / 2.13.2](https://github.com/xyproto/o/tree/2.13.2) |
