@@ -181,6 +181,7 @@ color by default via `NO_COLOR`.
 | [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
 | [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05 / 2.20.0](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
+| [gex](https://github.com/Piturnah/gex) | Git TUI inspired by Magit | [2023-08-05 / 0.6.1](https://github.com/Piturnah/gex/releases/tag/v0.6.1) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16 / 1.0.0](https://github.com/cli/cli/commit/6d0da077b656354865360253dc7c482a1dbaa224) |
