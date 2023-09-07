@@ -56,7 +56,7 @@ File.open("index.md") do |f|
   fails = false
 
   while f && !f.eof?
-    line = f.gets.strip
+    line = f.gets
     lc += 1
 
     case state
