@@ -208,7 +208,7 @@ color by default via `NO_COLOR`.
 | [KBSecret](https://kbsecret.github.io/) | Secret manager backed by Keybase and KBFS | [2018-04-13 / 1.4.0](https://github.com/kbsecret/kbsecret/commit/d5296054d979a1b1ce07c1be78d56d3d29b62384) |
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [2018-06-06 / 0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [2019-01-19 / 4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
-| [lakeFS](https://github.com/treeverse/lakefs) | Transforms your object storage into a Git-like repository, enables you to manage your data lake the way you manage your code | [2023-07-10 / 0.109.0](https://github.com/treeverse/lakeFS/releases/tag/v0.109.0) |
+| [lakeFS](https://github.com/treeverse/lakefs) | Manage your data as code using Git-like operations and achieve reproducible, high-quality data pipelines | [2023-07-10 / 0.109.0](https://github.com/treeverse/lakeFS/releases/tag/v0.109.0) |
 | [lat](https://github.com/secondary-smiles/lat) | Fast file viewer and text formatter | [2023-04-20 / 0.3.2](https://github.com/secondary-smiles/lat/releases/tag/v0.3.2) |
 | [lbt](https://gitlab.com/gardenappl/lbt) | Friendly tools for interacting with the LBRY network | [2022-03-31 / 2.1.2](https://gitlab.com/gardenappl/lbt/-/releases/v2.1.2) |
 | [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18 / 0.9.1](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
