@@ -10,7 +10,9 @@ repository and update `index.md` with a line under the appropriate section,
 keeping entries in alphabetical order.
 The line must be formatted as:
 
-     | [Software Name](URL) | Short description | [YYYY-MM-DD / X.X.X](URL) |
+``` markdown
+| [Software Name](URL) | Short description | [YYYY-MM-DD / X.X.X](URL) |
+```
 
 For the third field, the date and version number should be those of the first
 release of the software available with `NO_COLOR` support, with a link to the
@@ -34,8 +36,10 @@ rebuilt within a few minutes.
 If you are making extensive changes to the output and want to verify them in a
 browser before committing, you can setup a Jekyll environment with:
 
-	no_color$ bundle install
-	no_color$ bundle exec jekyll serve
+``` console
+$ bundle install
+$ bundle exec jekyll serve
+```
 
 And then visit
 [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
