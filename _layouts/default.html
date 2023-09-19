@@ -1,15 +1,31 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>NO_COLOR: disabling ANSI color output by default</title>
 	<style>
+		* {
+			box-sizing: border-box;
+			tab-size: 4;
+		}
+		html {
+			font: 11pt/1.33 sans-serif;
+		}
 		body {
-			font-family: sans-serif;
-			font-size: 11pt;
+			margin: 1em;
 		}
 
+		/* Links */
+		a:link, a:visited {
+			color: #0969da;
+			text-decoration: none;
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+
+		/* Headings */
 		h1 {
 			font-size: 20pt;
 			margin: 0;
@@ -28,22 +44,27 @@
 			font-weight: normal;
 		}
 
+		/* Centred column */
 		#wrapper {
-			margin: 3em auto;
-			width: 800px;
+			margin: 1em auto;
+			max-width: 800px;
+		}
+		#wrapper > h1:first-of-type {
+			margin-top: 0;
 		}
 
+		/* Tables */
 		table {
 			width: 100%;
-		}
-
-		th {
-			background-color: #ddd;
 		}
 
 		th, td {
 			padding: 0.25em;
 			vertical-align: top;
+		}
+		th {
+			background-color: #ddd;
+			border-bottom-style: solid;
 		}
 
 		table tr td:first-child {
@@ -65,15 +86,45 @@
 			padding: 3px;
 		}
 
+		/* Insets */
 		blockquote, pre {
 			margin-left: 3em;
 			overflow: auto;
 		}
 
-		@media only screen and (max-width: 800px) {
-			#wrapper {
-				margin: 1em;
-				width: auto;
+		blockquote > p {
+			margin: 0;
+		}
+
+		blockquote > p:not(:last-child) {
+			margin-bottom: 1em;
+		}
+
+		/* Smartphone-size viewports */
+		@media (max-width: 600px) {
+			ol, ul {
+				padding-left: 1em;
+			}
+			blockquote, pre {
+				margin-left: 1.5em;
+			}
+		}
+
+		/* Dark mode */
+		@media (prefers-color-scheme: dark) {
+			:root {
+				background-color: #0d1117;
+				color: #e6edf3;
+			}
+			a:link, a:visited {
+				color: #2f81f7;
+			}
+			th {
+				background-color: #161b22;
+				border-color: #30363d;
+			}
+			td code, p code {
+				background-color: rgba(110, 118, 129, 0.3);
 			}
 		}
 	</style>
