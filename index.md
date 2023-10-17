@@ -177,6 +177,7 @@ color by default via `NO_COLOR`.
 | [exa](https://github.com/ogham/exa) | Modern replacement for ls | [2021-12-06](https://github.com/ogham/exa/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
 | [eza](https://github.com/cafkafk/eza) | Modern, maintained replacement for ls | [2021-12-06](https://github.com/cafkafk/eza/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
 | [F2](https://github.com/ayoisaiah/f2) | Safe and fast cross-platform bulk-rename tool | [2021-05-04 / 1.5.7](https://github.com/ayoisaiah/f2/releases/tag/v1.5.7) |
+| [fast-asar](https://github.com/lafkpages/fast-asar) | A faster implementation of Electron's ASAR archive format. | [2023-10-17 / 1.0.5](https://github.com/lafkpages/fast-asar/commit/10da0ea1997ef4bcc359a003852160b4343c59a0) |
 | [fastlane](https://fastlane.tools) | The easiest way to build and release mobile apps | [2020-11-19 / 2.168.0](https://github.com/fastlane/fastlane/releases/tag/2.168.0) |
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
