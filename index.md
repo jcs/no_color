@@ -274,6 +274,7 @@ color by default via `NO_COLOR`.
 | [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [2018-11-15 / 1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
+| [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [2020-06-20 / 0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 | [woob](https://woob.tech) | Command-line applications to interact with many websites (banking, weather, video, etc.) | [2021-05-13 / 3.1](https://gitlab.com/woob/woob/-/commit/f6b446ba5af7bd80f2795330facc9841740c7076) |
 | [xh](https://github.com/ducaale/xh) | Friendly and fast tool for sending HTTP requests | [2021-02-28 / 0.8.0](https://github.com/ducaale/xh/releases/tag/v0.8.0) |
