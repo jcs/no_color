@@ -272,6 +272,7 @@ color by default via `NO_COLOR`.
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
 | [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree) | Recursive directory listing command | [2022-12-26 / 2.1.0](https://gitlab.com/OldManProgrammer/unix-tree/-/blob/22a2e268206b8d2238a686458c4702f9b3689e5b/CHANGES) |
 | [TreeViewer](https://treeviewer.org) | Phylogenetic tree visualisation software | [2021-02-19 / 1.0.0](https://github.com/arklumpus/TreeViewer/releases/tag/v1.0.0) |
+| [Trunk Recorder](https://trunkrecorder.com) | SDR recorder for P25, SmartNet, and conventional radio systems | [2023-12-02 / 4.7.0](https://github.com/robotastic/trunk-recorder/releases/tag/v4.7.0) |
 | [tsfm](https://npmjs.com/package/tsfm) | Light TUI file manager | [2023-07-19 / 2.4.0](https://github.com/akpi816218/tsfm/releases/tag/v2.4.0) |
 | [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [2018-11-15 / 1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
