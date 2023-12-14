@@ -103,6 +103,7 @@ color by default via `NO_COLOR`.
 | [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | [2018-02-08 / 1.5.1](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [crayon.js](https://github.com/crayon-js/crayon) | Modular Deno module and NPM package for terminal styling | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
 | [crossterm](https://github.com/crossterm-rs/crossterm) | Cross-platform terminal manipulation library in Rust | [2023-08-06 / 0.27](https://github.com/crossterm-rs/crossterm/releases/tag/0.27.0) |
+| [crystal-lang colorize module](https://crystal-lang.org/) | A module for altering text colors and decorations in terminal displays | [2022-06-06 / 1.5.0](https://github.com/crystal-lang/crystal/releases/tag/1.5.0) |
 | [Dahlia](https://github.com/trag1c/Dahlia) | Simple text formatting package, inspired by the game Minecraft | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
 | [Dye](https://github.com/dduan/Dye) | Cross-platform terminal styling for Swift command-line interface | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
 | [Fude](https://github.com/msanguineti/fude) | Node.js library for terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
