@@ -132,6 +132,7 @@ color by default via `NO_COLOR`.
 | [termenv](https://github.com/muesli/termenv) | Go package for text styling, terminal detection and color conversions | [2021-06-24 / 0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0) |
 | [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | [2019-11-18 / 1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
 | [textus\_coloris](https://github.com/ac000/textus_coloris) | C header library for colourised console output | [2021-08-16](https://github.com/ac000/textus_coloris/commit/4930b7a531beebf772f82b3dbaa60d0a47d50c1b) |
+| [Warna](https://github.com/komothecat/warna) | Terminal text styling for Lua | [2024-02-11 / 0.1.0](https://github.com/komothecat/warna/releases/tag/v0.1.0-1) |
 | [XConsole](https://github.com/chubrik/XConsole) | .NET console with coloring, pinning & positioning | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
 {: rules="groups"}
 
