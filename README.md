@@ -8,13 +8,19 @@ For information on the `NO_COLOR` standard, see
 To add or update software on the `no-color.org` website, clone this Git
 repository and update `index.md` with a line under the appropriate section,
 keeping entries in alphabetical order.
+
 The line must be formatted as:
+```
+For libraries:
+| [Software Name](URL) | Short description | Language(s) | [YYYY-MM-DD / X.X.X](URL) |
 
-     | [Software Name](URL) | Short description | [YYYY-MM-DD / X.X.X](URL) |
+For general software:
+| [Software Name](URL) | Short description | [YYYY-MM-DD / X.X.X](URL) |
+```
 
-For the third field, the date and version number should be those of the first
-release of the software available with `NO_COLOR` support, with a link to the
-release notes for that version.
+For the third/fourth field (the date and version number), the value should
+refer to the first release of the software available with `NO_COLOR` support,
+with a link to the release notes for that version.
 
 If a version is not available, just include a date and link to the commit when
 `NO_COLOR` support was added.
