@@ -73,6 +73,11 @@ File.open("index.md") do |f|
             puts "Line #{lc} does not match format | |", line
             fails = true
           end
+        elsif state == :libraries
+          if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
+            puts "Line #{lc} does not match format | | | |", line
+            fails = true
+          end
         else
           if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
             puts "Line #{lc} does not match format | | |", line
