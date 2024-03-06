@@ -275,6 +275,7 @@ color by default via `NO_COLOR`.
 | [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools for Debian, Arch Linux, Tearch and Sulin | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
+| [tio](https://github.com/tio/tio) | A simple serial device I/O tool | [2024-03-06](https://github.com/tio/tio/commit/ed4ac0c797cd25b0b5d31a7654349e928b3eac58) |
 | [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree) | Recursive directory listing command | [2022-12-26 / 2.1.0](https://gitlab.com/OldManProgrammer/unix-tree/-/blob/22a2e268206b8d2238a686458c4702f9b3689e5b/CHANGES) |
 | [TreeViewer](https://treeviewer.org) | Phylogenetic tree visualisation software | [2021-02-19 / 1.0.0](https://github.com/arklumpus/TreeViewer/releases/tag/v1.0.0) |
 | [Trunk Recorder](https://trunkrecorder.com) | Radio recorder for P25, SmartNet, and conventional systems | [2023-12-02 / 4.7.0](https://github.com/robotastic/trunk-recorder/releases/tag/v4.7.0) |
