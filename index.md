@@ -87,53 +87,53 @@ in the presence of `$NO_COLOR`?**
 Software using these libraries to output color inherently support disabling
 color by default via `NO_COLOR`.
 
-| Software | Description | Language | Date / Version Supported |
+| Software | Language | Description | Date / Version Supported |
 |:-|:-|:-|:-|
-| [ansis](https://github.com/webdiscus/ansis) | NPM package for ANSI 256/truecolor styling of text in Node.js | JavaScript | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
-| [asai](https://github.com/RedPRL/asai) | OCaml package for compiler diagnostics | OCaml | [2023-11-03 / 0.3.0](https://github.com/RedPRL/asai/releases/tag/0.3.0) |
-| [Bashkit](https://bashkit.wuage.io) | Scripting model and framework for Bash 5.x | Bash | [2023-01-27 / 1.2301.32](https://github.com/Wuageorg/bashkit/blob/e99a907f538db88cf8de1a354e5c87b21e27fcea/CHANGELOG.md) |
-| [cfonts](https://github.com/dominikwilkowski/cfonts) | Rust and NPM package for colorful fonts in the console | Rust, JavaScript | [2022-05-28 / 3.0.0](https://github.com/dominikwilkowski/cfonts/releases/tag/v3.0.0-nodejs) |
-| [Cleo](https://github.com/python-poetry/cleo) | Create beautiful and testable command-line interfaces | Python | [2021-01-29 / 1.0.0a1](https://github.com/python-poetry/cleo/releases/tag/1.0.0a1) |
-| [cli-color](https://github.com/medikoo/cli-color) | NPM package for colors and formatting | JavaScript | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
-| [click-extra](https://github.com/kdeldycke/click-extra) | Collection of utilities for Click, the Python CLI framework | Python | [2022-04-11 / 2.0.0](https://github.com/kdeldycke/click-extra/blob/main/changelog.md#gh200-2022-04-11-comparev190v200) |
-| [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | Colorful command line output C/C++ macros | C, C++ | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
-| [colored](https://github.com/mackwic/colored) | Rust crate for coloring terminal output | Rust | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
-| [Colorette](https://github.com/jorgebucaran/colorette) | Easily set terminal text color & styles in Node.js | JavaScript | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
-| [colors-option](https://github.com/ehmicky/colors-option) | NPM package for colors and formatting based on chalk | JavaScript | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
-| [console-ansi](https://github.com/dmnsgn/console-ansi) | Easy console coloring and prefixing via Proxy object with ANSI strings (for JavaScript) | JavaScript | [2022-06-14 / 1.3.0](https://github.com/dmnsgn/console-ansi/blob/main/CHANGELOG.md#130-2022-06-14) |
-| [crayon](https://github.com/r-lib/crayon) | R package for colored terminal output | R | [2018-02-08 / 1.5.1](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
-| [crayon.js](https://github.com/crayon-js/crayon) | Modular Deno module and NPM package for terminal styling | JavaScript, TypeScript | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
-| [crossterm](https://github.com/crossterm-rs/crossterm) | Cross-platform terminal manipulation library in Rust | Rust | [2023-08-06 / 0.27](https://github.com/crossterm-rs/crossterm/releases/tag/0.27.0) |
-| [crystal-lang colorize module](https://crystal-lang.org/) | A module for altering text colors and decorations in terminal displays | Crystal | [2022-06-06 / 1.5.0](https://github.com/crystal-lang/crystal/releases/tag/1.5.0) |
-| [Dahlia](https://github.com/trag1c/Dahlia) | Simple text formatting package, inspired by the game Minecraft | Unknown | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
-| [Dye](https://github.com/dduan/Dye) | Cross-platform terminal styling for Swift command-line interface | Swift | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
-| [Fude](https://github.com/msanguineti/fude) | Node.js library for terminal text style formatting | JavaScript | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
-| [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | Virtual terminal functionality, console traits, and useful primitives for .NET console apps | .NET | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
-| [gchalk](https://github.com/jwalton/gchalk) | Terminal string styling for Go with Windows 10 support | Go | [2021-10-06 / 1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
-| [Getopt::EX::Colormap](https://metacpan.org/release/Getopt-EX) | Perl library for ANSI terminal color and command line option handling | Perl | [2021-09-27 / 1.25.0](https://metacpan.org/changes/release/UTASHIRO/Getopt-EX-v1.25.0) |
-| [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html) | Library for styling text output with CSS | Unknown | [2019-08-13 / 0.21](https://github.com/autotools-mirror/gettext/commit/7040b13946b3dce5fbe2be8ecfda11e03eed7028) |
-| [go-ansi](https://git.sr.ht/~mpldr/go-ansi/) | Go Package for easy text formatting | Go | [2021-05-18 / 1.4.0](https://git.sr.ht/~mpldr/go-ansi/commit/5d3db1d715a4ab8b00dda60b9b87054a4146c1aa) |
-| [GraalVM Native Image](https://www.graalvm.org/native-image/) | Ahead-of-time compilation of Java code to standalone executables | Java | [2022-02-28 / 22.1.0](https://github.com/oracle/graal/commit/20f912e13cd97c3c3b527522b194a61eac71a93b) |
-| [inquire](https://github.com/mikaelmello/inquire) | Rust library for building interactive prompts | Rust | [2021-08-29 / 0.0.10](https://github.com/mikaelmello/inquire/releases/tag/v0.0.10) |
-| [kleur](https://github.com/lukeed/kleur) | Node.js library for formatting terminal text with ANSI colors | JavaScript | [2020-08-12 / 4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
-| [LogColor](https://github.com/induane/logcolor) | Python library for coloring output in log messages | Python | [2018-01-24 / 1.2.0](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
-| [MatthiWare. CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# Command Line Parser Library | C# | [2020-07-21 / 0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
-| [Nano Colors](https://github.com/ai/nanocolors) | Node.js library for formatting terminal text with ANSI colors | JavaScript | [2021-09-21 / 0.1.0](https://github.com/ai/nanocolors/releases/tag/0.1.0) |
-| [paint](https://github.com/janlelis/paint) | Ruby gem for terminal colors and effects | Ruby | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
-| [pastel](https://github.com/piotrmurach/pastel) | Ruby gem for terminal output styling | Ruby | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
-| [Pastel](https://github.com/silkfire/Pastel) | Tiny .NET library for coloring console output | .NET | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
-| [PyTermGUI](https://github.com/bczsalba/pytermgui/) | Simple yet powerful Python TUI framework | Python | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
-| [rich](https://github.com/Textualize/rich) | Python library for rich text and beautiful formatting | Python | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
-| [sgr](https://github.com/datafl4sh/sgr) | C++ stream manipulators for colored text output and more | C++ | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
-| [Spectre.Console](https://github.com/spectreconsole/spectre.console) | .NET library that makes it easier to create beautiful console applications | .NET | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
-| [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl library for color output using ANSI escape sequences | Perl | [2020-01-17 / 5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
-| [termcolor](https://github.com/BurntSushi/termcolor) | Rust crate for cross-platform terminal colors | Rust | [2020-01-11 / 1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
-| [termcolor](https://github.com/termcolor/termcolor) | Python library for ANSI color formatting in the terminal | Python | [2022-09-11 / 2.0.0](https://github.com/termcolor/termcolor/releases/tag/2.0.0) |
-| [termenv](https://github.com/muesli/termenv) | Go package for text styling, terminal detection and color conversions | Go | [2021-06-24 / 0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0) |
-| [TextOutput](https://github.com/xyproto/textoutput) | Go package for controlling text output, using VT100 terminal codes | Go | [2019-11-18 / 1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
-| [textus_coloris](https://github.com/ac000/textus_coloris) | C header library for colourised console output | C | [2021-08-16](https://github.com/ac000/textus_coloris/commit/4930b7a531beebf772f82b3dbaa60d0a47d50c1b) |
-| [Warna](https://github.com/komothecat/warna) | Terminal text styling library for Lua | Lua | [2024-02-11 / 0.1.0](https://github.com/komothecat/warna/releases/tag/v0.1.0-1) |
-| [XConsole](https://github.com/chubrik/XConsole) | .NET console with coloring, pinning & positioning | .NET | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
+| [ansis](https://github.com/webdiscus/ansis) | JavaScript | ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
+| [asai](https://github.com/RedPRL/asai) | OCaml | Compiler diagnostics | [2023-11-03 / 0.3.0](https://github.com/RedPRL/asai/releases/tag/0.3.0) |
+| [Bashkit](https://bashkit.wuage.io) | Bash | Scripting model and framework | [2023-01-27 / 1.2301.32](https://github.com/Wuageorg/bashkit/blob/e99a907f538db88cf8de1a354e5c87b21e27fcea/CHANGELOG.md) |
+| [cfonts](https://github.com/dominikwilkowski/cfonts) | Rust, JavaScript | Colorful fonts in the console | [2022-05-28 / 3.0.0](https://github.com/dominikwilkowski/cfonts/releases/tag/v3.0.0-nodejs) |
+| [Cleo](https://github.com/python-poetry/cleo) | Python | Beautiful and testable command-line interfaces | [2021-01-29 / 1.0.0a1](https://github.com/python-poetry/cleo/releases/tag/1.0.0a1) |
+| [cli-color](https://github.com/medikoo/cli-color) | JavaScript | Colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
+| [click-extra](https://github.com/kdeldycke/click-extra) | Python | Utilities for Click, the Python CLI framework | [2022-04-11 / 2.0.0](https://github.com/kdeldycke/click-extra/blob/main/changelog.md#gh200-2022-04-11-comparev190v200) |
+| [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | C, C++ | Colorful command line output macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
+| [colored](https://github.com/mackwic/colored) | Rust | Coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
+| [Colorette](https://github.com/jorgebucaran/colorette) | JavaScript | Terminal text color & styles | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
+| [colors-option](https://github.com/ehmicky/colors-option) | JavaScript | Colors and formatting based on chalk | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
+| [console-ansi](https://github.com/dmnsgn/console-ansi) | JavaScript | Console coloring and prefixing via Proxy object with ANSI strings | [2022-06-14 / 1.3.0](https://github.com/dmnsgn/console-ansi/blob/main/CHANGELOG.md#130-2022-06-14) |
+| [crayon](https://github.com/r-lib/crayon) | R | Colored terminal output | [2018-02-08 / 1.5.1](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
+| [crayon.js](https://github.com/crayon-js/crayon) | JavaScript, TypeScript | Terminal styling | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
+| [crossterm](https://github.com/crossterm-rs/crossterm) | Rust | Cross-platform terminal manipulation | [2023-08-06 / 0.27](https://github.com/crossterm-rs/crossterm/releases/tag/0.27.0) |
+| [crystal-lang colorize module](https://crystal-lang.org/) | Crystal | Alter text colors and decorations in terminal displays | [2022-06-06 / 1.5.0](https://github.com/crystal-lang/crystal/releases/tag/1.5.0) |
+| [Dahlia](https://github.com/trag1c/Dahlia) | Python | Simple text formatting package, inspired by Minecraft | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
+| [Dye](https://github.com/dduan/Dye) | Swift | Cross-platform terminal styling | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
+| [Fude](https://github.com/msanguineti/fude) | JavaScript | Terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
+| [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | .NET | Virtual terminal functionality, console traits, and useful primitives | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
+| [gchalk](https://github.com/jwalton/gchalk) | Go | Terminal string styling with Windows 10 support | [2021-10-06 / 1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
+| [Getopt::EX::Colormap](https://metacpan.org/release/Getopt-EX) | Perl | ANSI terminal color and command line option handling | [2021-09-27 / 1.25.0](https://metacpan.org/changes/release/UTASHIRO/Getopt-EX-v1.25.0) |
+| [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html) | C | Library for styling text output with CSS | [2019-08-13 / 0.21](https://github.com/autotools-mirror/gettext/commit/7040b13946b3dce5fbe2be8ecfda11e03eed7028) |
+| [go-ansi](https://git.sr.ht/~mpldr/go-ansi/) | Go | Easy text formatting | [2021-05-18 / 1.4.0](https://git.sr.ht/~mpldr/go-ansi/commit/5d3db1d715a4ab8b00dda60b9b87054a4146c1aa) |
+| [GraalVM Native Image](https://www.graalvm.org/native-image/) | Java | Ahead-of-time compilation of Java code to standalone executables | [2022-02-28 / 22.1.0](https://github.com/oracle/graal/commit/20f912e13cd97c3c3b527522b194a61eac71a93b) |
+| [inquire](https://github.com/mikaelmello/inquire) | Rust | Build interactive prompts | [2021-08-29 / 0.0.10](https://github.com/mikaelmello/inquire/releases/tag/v0.0.10) |
+| [kleur](https://github.com/lukeed/kleur) | JavaScript | Format terminal text with ANSI colors | [2020-08-12 / 4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
+| [LogColor](https://github.com/induane/logcolor) | Python | Color output in log messages | [2018-01-24 / 1.2.0](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
+| [MatthiWare. CommandLineParser](https://github.com/MatthiWare/CommandLineParser.Core) | C# | Command Line Parser | [2020-07-21 / 0.3.1](https://github.com/MatthiWare/CommandLineParser.Core/commit/240154043afadee1a581866f537b22048d2f69bc) |
+| [Nano Colors](https://github.com/ai/nanocolors) | JavaScript | Format terminal text with ANSI colors | [2021-09-21 / 0.1.0](https://github.com/ai/nanocolors/releases/tag/0.1.0) |
+| [paint](https://github.com/janlelis/paint) | Ruby | Terminal colors and effects | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
+| [pastel](https://github.com/piotrmurach/pastel) | Ruby | Terminal output styling | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
+| [Pastel](https://github.com/silkfire/Pastel) | .NET | Color console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
+| [PyTermGUI](https://github.com/bczsalba/pytermgui/) | Python | TUI framework | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
+| [rich](https://github.com/Textualize/rich) | Python | Rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
+| [sgr](https://github.com/datafl4sh/sgr) | C++ | Stream manipulators for colored text output | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
+| [Spectre.Console](https://github.com/spectreconsole/spectre.console) | .NET | Create beautiful console applications | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
+| [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl | Color output using ANSI escape sequences | [2020-01-17 / 5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
+| [termcolor](https://github.com/BurntSushi/termcolor) | Rust | Cross-platform terminal colors | [2020-01-11 / 1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
+| [termcolor](https://github.com/termcolor/termcolor) | Python | ANSI color formatting in the terminal | [2022-09-11 / 2.0.0](https://github.com/termcolor/termcolor/releases/tag/2.0.0) |
+| [termenv](https://github.com/muesli/termenv) | Go | Text styling, terminal detection and color conversions | [2021-06-24 / 0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0) |
+| [TextOutput](https://github.com/xyproto/textoutput) | Go | Control text output using VT100 terminal codes | [2019-11-18 / 1.9.1](https://github.com/xyproto/textoutput/tree/v1.9.1) |
+| [textus_coloris](https://github.com/ac000/textus_coloris) | C | Colourised console output | [2021-08-16](https://github.com/ac000/textus_coloris/commit/4930b7a531beebf772f82b3dbaa60d0a47d50c1b) |
+| [Warna](https://github.com/komothecat/warna) | Lua | Terminal text styling | [2024-02-11 / 0.1.0](https://github.com/komothecat/warna/releases/tag/v0.1.0-1) |
+| [XConsole](https://github.com/chubrik/XConsole) | .NET | Coloring, pinning & positioning | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable color output by default
