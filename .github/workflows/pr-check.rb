@@ -20,7 +20,9 @@ end
 
 def sort_and_check(arr, label)
   begin
-    sorted = arr.sort_by{|l| l.scan(/^\| \[([^\]]+)\]/).first.first.downcase }
+    sorted = arr.sort_by.with_index{|l,i|
+      [ l.scan(/^\| \[([^\]]+)\]/).first.first.downcase, i ]
+    }
   rescue => e
     return false
   end
