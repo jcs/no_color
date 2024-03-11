@@ -51,15 +51,14 @@ end
 
 File.open("index.md") do |f|
   state = :header
-  libraries = []
-  software = []
-  non_believers = []
+  groups = { :libraries => [], :software => [], :non_believers => [] }
   lc = 0
   fails = false
 
   while f && !f.eof?
     line = f.gets
     lc += 1
+    descr = nil
 
     case state
     when :header, :header_2, :header_3
@@ -70,33 +69,40 @@ File.open("index.md") do |f|
       if line.match(/^\{: rules/)
         state = next_state(state)
       else
+        parts = []
+        if m = line.match(/^\| (.+) \|$/)
+          parts = m[1].split(/ \| /).flatten
+        end
+
         if state == :non_believers
-          if !line.match(/^\| [^\|]+ \| [^\|]+ \|$/)
+          if parts.count != 2
             puts "Line #{lc} does not match format | |", line
             fails = true
           end
         elsif state == :libraries
-          if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
+          if parts.count == 4
+            descr = parts[2]
+          else
             puts "Line #{lc} does not match format | | | |", line
             fails = true
           end
-        else
-          if !line.match(/^\| [^\|]+ \| [^\|]+ \| [^\|]+ \|$/)
+        elsif state == :software
+          if parts.count == 3
+            descr = parts[1]
+          else
             puts "Line #{lc} does not match format | | |", line
             fails = true
           end
+        else
+          raise "invalid state #{state}"
         end
 
-        case state
-        when :libraries
-          libraries.push line
-        when :software
-          software.push line
-        when :non_believers
-          non_believers.push line
-        else
-          raise "bogus state?"
+        if descr.to_s.match(/[.!]$/)
+          puts "Line #{lc} description has trailing punctuation", line
+          fails = true
         end
+
+        groups[state].push line
       end
     when :trailer
       puts "Trailing junk at the end of the file on line #{lc}: #{line.inspect}"
@@ -104,9 +110,9 @@ File.open("index.md") do |f|
     end
   end
 
-  fails |= !sort_and_check(libraries, "Library")
-  fails |= !sort_and_check(software, "Software")
-  fails |= !sort_and_check(non_believers, "Non-supporting software")
+  fails |= !sort_and_check(groups[:libraries], "Library")
+  fails |= !sort_and_check(groups[:software], "Software")
+  fails |= !sort_and_check(groups[:non_believers], "Non-supporting software")
 
   if fails
     exit 1
