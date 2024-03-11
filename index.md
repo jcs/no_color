@@ -106,6 +106,7 @@ color by default via `NO_COLOR`.
 | [crossterm](https://github.com/crossterm-rs/crossterm) | Rust | Cross-platform terminal manipulation | [2023-08-06 / 0.27](https://github.com/crossterm-rs/crossterm/releases/tag/0.27.0) |
 | [crystal-lang colorize module](https://crystal-lang.org/) | Crystal | Alter text colors and decorations in terminal displays | [2022-06-06 / 1.5.0](https://github.com/crystal-lang/crystal/releases/tag/1.5.0) |
 | [Dahlia](https://github.com/trag1c/Dahlia) | Python | Simple text formatting package, inspired by Minecraft | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
+| [darvil82.terminal-text-formatter](https://github.com/darvil82/java-terminal-text-formatter) | Java | TextFormatter utility to easily color and format text. | [2024-03-11 / 2.1.0](https://github.com/darvil82/java-terminal-text-formatter/releases/tag/2.1.0) |
 | [Dye](https://github.com/dduan/Dye) | Swift | Cross-platform terminal styling | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
 | [Fude](https://github.com/msanguineti/fude) | JavaScript | Terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
 | [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | .NET | Virtual terminal functionality, console traits, and useful primitives | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
@@ -133,7 +134,6 @@ color by default via `NO_COLOR`.
 | [textus_coloris](https://github.com/ac000/textus_coloris) | C | Colourised console output | [2021-08-16](https://github.com/ac000/textus_coloris/commit/4930b7a531beebf772f82b3dbaa60d0a47d50c1b) |
 | [Warna](https://github.com/komothecat/warna) | Lua | Terminal text styling | [2024-02-11 / 0.1.0](https://github.com/komothecat/warna/releases/tag/v0.1.0-1) |
 | [XConsole](https://github.com/chubrik/XConsole) | .NET | Coloring, pinning & positioning | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
-| [darvil82.terminal-text-formatter](https://github.com/darvil82/java-terminal-text-formatter) | Java | TextFormatter utility to easily color and format text. | [2024-03-11 / 2.1.0](https://github.com/darvil82/java-terminal-text-formatter/releases/tag/2.1.0) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable color output by default
