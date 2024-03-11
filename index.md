@@ -133,6 +133,7 @@ color by default via `NO_COLOR`.
 | [textus_coloris](https://github.com/ac000/textus_coloris) | C | Colourised console output | [2021-08-16](https://github.com/ac000/textus_coloris/commit/4930b7a531beebf772f82b3dbaa60d0a47d50c1b) |
 | [Warna](https://github.com/komothecat/warna) | Lua | Terminal text styling | [2024-02-11 / 0.1.0](https://github.com/komothecat/warna/releases/tag/v0.1.0-1) |
 | [XConsole](https://github.com/chubrik/XConsole) | .NET | Coloring, pinning & positioning | [2022-04-22 / 1.0.5](https://github.com/chubrik/XConsole/releases/tag/1.0.5) |
+| [darvil82.terminal-text-formatter](https://github.com/darvil82/java-terminal-text-formatter) | Java | TextFormatter utility to easily color and format text. | [2024-03-11 / 2.1.0](https://github.com/darvil82/java-terminal-text-formatter/releases/tag/2.1.0) |
 {: rules="groups"}
 
 ## Software directly supporting `NO_COLOR` to disable color output by default
