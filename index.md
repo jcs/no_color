@@ -283,6 +283,7 @@ color by default via `NO_COLOR`.
 | [tsfm](https://npmjs.com/package/tsfm) | Light TUI file manager | [2023-07-19 / 2.4.0](https://github.com/akpi816218/tsfm/releases/tag/v2.4.0) |
 | [twa](https://github.com/trailofbits/twa) | Tiny web auditor with strong opinions | [2018-11-15 / 1.1.0](https://github.com/trailofbits/twa/releases/tag/1.1.0) |
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
+| [ugrep](https://ugrep.com) | File pattern searcher | [2024-04-03 / 5.1.2](https://github.com/Genivia/ugrep/releases/tag/v5.1.2) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
 | [UnrealIRCd](https://www.unrealircd.org) | IRC Server | [2023-03-11](https://github.com/unrealircd/unrealircd/commit/c43753cd4b36ed2662b0df2b2f91887a25b3283e) |
 | [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
