@@ -126,6 +126,7 @@ color by default via `NO_COLOR`.
 | [rich](https://github.com/Textualize/rich) | Python | Rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
 | [sgr](https://github.com/datafl4sh/sgr) | C++ | Stream manipulators for colored text output | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
 | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | .NET | Create beautiful console applications | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
+| [System.Console](https://learn.microsoft.com/en-us/dotnet/api/system.console) | .NET | Represents the standard input, output, and error streams for console applications | [2021-07-10 / .NET 6](https://github.com/dotnet/runtime/commit/0d848f68b46cd34bca7f64b11b79057f4b7bfad5) |
 | [Term::ANSIColor](https://metacpan.org/release/Term-ANSIColor) | Perl | Color output using ANSI escape sequences | [2020-01-17 / 5.01](https://metacpan.org/changes/release/RRA/Term-ANSIColor-5.01) |
 | [termcolor](https://github.com/BurntSushi/termcolor) | Rust | Cross-platform terminal colors | [2020-01-11 / 1.1.0](https://github.com/BurntSushi/termcolor/commit/423e28eb69a77799179474575869c5b0433d6adb) |
 | [termcolor](https://github.com/termcolor/termcolor) | Python | ANSI color formatting in the terminal | [2022-09-11 / 2.0.0](https://github.com/termcolor/termcolor/releases/tag/2.0.0) |
