@@ -92,6 +92,7 @@ color by default via `NO_COLOR`.
 | [ansis](https://github.com/webdiscus/ansis) | JavaScript | ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
 | [asai](https://github.com/RedPRL/asai) | OCaml | Compiler diagnostics | [2023-11-03 / 0.3.0](https://github.com/RedPRL/asai/releases/tag/0.3.0) |
 | [Bashkit](https://bashkit.wuage.io) | Bash | Scripting model and framework | [2023-01-27 / 1.2301.32](https://github.com/Wuageorg/bashkit/blob/e99a907f538db88cf8de1a354e5c87b21e27fcea/CHANGELOG.md) |
+| [bitstring](https://github.com/scott-griffiths/bitstring) | Python | Efficient and flexible handling of binary data. | [2024-04-22 / 4.2.0](https://github.com/scott-griffiths/bitstring/blob/fc3c11eef79de27eca25c7516c3549615c378fd7/release_notes.txt) |
 | [cfonts](https://github.com/dominikwilkowski/cfonts) | Rust, JavaScript | Colorful fonts in the console | [2022-05-28 / 3.0.0](https://github.com/dominikwilkowski/cfonts/releases/tag/v3.0.0-nodejs) |
 | [Cleo](https://github.com/python-poetry/cleo) | Python | Beautiful and testable command-line interfaces | [2021-01-29 / 1.0.0a1](https://github.com/python-poetry/cleo/releases/tag/1.0.0a1) |
 | [cli-color](https://github.com/medikoo/cli-color) | JavaScript | Colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
