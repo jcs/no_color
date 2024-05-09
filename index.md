@@ -258,6 +258,7 @@ color by default via `NO_COLOR`.
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
 | [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14 / 3.1](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
+| [Python](https://docs.python.org/3.13/using/cmdline.html#using-on-controlling-color) | Python REPL, tracebacks and `doctest` output | [2024-05-08 / 3.13.0b1](https://docs.python.org/3.13/whatsnew/3.13.html) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Line-oriented search tool | [2020-01-11 / 12.0.0](https://github.com/BurntSushi/ripgrep/commit/5a6e17fcc133f70f922a123483d0d5a158c041b0) |
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09 / 0.7.3](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [rsyncy](https://github.com/laktak/rsyncy) | Status/progress bar for rsync | [2023-06-30 / 0.2.0](https://github.com/laktak/rsyncy/commit/8baf2771b7b3a4cbd2d8ea11931f1eb859ec0473) |
