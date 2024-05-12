@@ -70,16 +70,16 @@ Or change all color definitions in the terminal to print the same color?**
 	It should be up to the user whether color is used, not the software author.
 
 2. **How should configuration files and command-line arguments be processed
-in the presence of `$NO_COLOR`?**
+in the presence of `NO_COLOR`?**
 
 	User-level configuration files and per-instance command-line arguments
-	should override `$NO_COLOR`.
-	A user should be able to export `$NO_COLOR` in their shell configuration
+	should override the `NO_COLOR` environment variable.
+	A user should be able to export `NO_COLOR=1` in their shell configuration
 	file as a default, but configure a specific program in its configuration
 	file to specifically enable color.
 
 	This also means that software that *can* add color but doesn't by default
-	does not need to care about `$NO_COLOR`, because it will only ever be
+	does not need to care about `NO_COLOR`, because it will only ever be
 	adding color when instructed to do so (as it should be).
 
 ## Color libraries supporting `NO_COLOR` to disable default color output
