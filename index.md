@@ -156,13 +156,13 @@ color by default via `NO_COLOR`.
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [2019-05-06 / 1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27 / 0.9](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02 / 1.5.3](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
-| [borgmatic](https://torsion.org/borgmatic) | Simple, configuration-driven backup software for servers and workstations | [2024-03-04 / 1.8.9](https://projects.torsion.org/borgmatic-collective/borgmatic/commit/16bc0de3fb76f027c81353899d4e7a4d6b386dbc) |
-| [buildkit](https://github.com/moby/buildkit) | Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit | [2022-07-20](https://github.com/moby/buildkit/commit/ebb1e827178a763f7f1150fc5a80a9b4f993d02f) |
+| [borgmatic](https://torsion.org/borgmatic) | Simple, configuration-driven backup software | [2024-03-04 / 1.8.9](https://projects.torsion.org/borgmatic-collective/borgmatic/commit/16bc0de3fb76f027c81353899d4e7a4d6b386dbc) |
+| [buildkit](https://github.com/moby/buildkit) | Concurrent, cache-efficient, Dockerfile-agnostic builder toolkit | [2022-07-20](https://github.com/moby/buildkit/commit/ebb1e827178a763f7f1150fc5a80a9b4f993d02f) |
 | [Bullseye](https://github.com/adamralph/bullseye) | .NET library for running a target dependency graph | [2021-01-01 / 3.6.0](https://github.com/adamralph/bullseye/blob/master/CHANGELOG.md#360) |
 | [c-ray](https://github.com/vkoskiv/c-ray) | The small C raytracer | [2021-09-24](https://github.com/vkoskiv/c-ray/commit/cd321107a650c68bfa62911f8baf691397e28898) |
 | [Cake](https://cakebuild.net) | Cross-platform build automation system with a C# DSL | [2021-03-06 / 1.1.0](https://cakebuild.net/docs/running-builds/configuration/default-configuration-values#disable-colors-in-output-text) |
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [2019-12-30 / 4.0.1](https://github.com/cakephp/cakephp/pull/14158) |
-| [Candalf](https://github.com/jarmo/candalf) | Orchestrate Linux and Unix-like system configuration/setup/management using SSH | [2022-03-22](https://github.com/jarmo/candalf/commit/54678fb7730fe803927f3831fec7280e69e5aca1) |
+| [Candalf](https://github.com/jarmo/candalf) | Orchestrate system configuration/setup/management | [2022-03-22](https://github.com/jarmo/candalf/commit/54678fb7730fe803927f3831fec7280e69e5aca1) |
 | [cdist](https://www.cdi.st/) | Usable configuration management | [2020-06-17 / 6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
 | [checkit](https://gitgud.io/BoraxMan/checkit) | File integrity tool for Linux and Unix systems | [2022-09-08 / 0.5.1](https://gitgud.io/BoraxMan/checkit/-/tags/v0.5.1) |
 | [chezmoi](https://chezmoi.io/) | Manage dotfiles across multiple machines, securely | [2020-05-06 / 1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
@@ -174,7 +174,7 @@ color by default via `NO_COLOR`.
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [2019-09-23 / 1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
 | [DataLad](https://www.datalad.org/) | Data management and publication multitool | [2019-05-23 / 0.11.5](https://github.com/datalad/datalad/releases/tag/0.11.5) |
 | [DDraceNetwork](https://ddnet.tw/) | Cooperative multiplayer game | [2022-02-27 / 5.1](https://github.com/ddnet/ddnet/commit/b3e7164905dd227f9ab1c0eb9d7ab878ece7e971) |
-| [debian-subsystem](https://gitlab.com/sulincix/debian-subsystem) | Use Debian subsystem on other GNU/Linux distributions with desktop integration | [2021-11-09](https://gitlab.com/sulincix/debian-subsystem/-/commit/813292e0498800e01bd4039678511c1097c2147f) |
+| [debian-subsystem](https://gitlab.com/sulincix/debian-subsystem) | Use Debian subsystem on other GNU/Linux distributions | [2021-11-09](https://gitlab.com/sulincix/debian-subsystem/-/commit/813292e0498800e01bd4039678511c1097c2147f) |
 | [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) | Web server that uses HTTP dumps as a source for responses | [2021-09-17 / 1.0.13](https://github.com/xnbox/DeepfakeHTTP/releases/tag/v1.0.13) |
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime | [2019-02-09 / 0.2.11](https://github.com/denoland/deno/releases/tag/v0.2.11) |
 | [Diun](https://github.com/crazy-max/diun) | Docker Image Update Notifier | [2021-05-26 / 4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0) |
@@ -213,14 +213,14 @@ color by default via `NO_COLOR`.
 | [hx](https://github.com/sitkevij/hex) | Futuristic take on hexdump, made in Rust | [2020-11-22 / 0.4.0](https://github.com/sitkevij/hex/releases/tag/v0.4.0) |
 | [inary](https://gitlab.com/sulinos/devel/inary) | Package manager for SulinOS | [2021-10-18](https://gitlab.com/sulinos/devel/inary/-/commit/29cbfcd8a8b50683d6726fd7b060af005d1b9c80) |
 | [irb](https://github.com/ruby/irb) | Official Ruby REPL | [2021-06-21 / 1.3.6](https://github.com/ruby/irb/releases/tag/v1.3.6) |
-| [jc](https://github.com/kellyjonbrazil/jc) | Convert the output of popular command-line tools and file-types to JSON | [2021-12-07 / 1.17.4](https://github.com/kellyjonbrazil/jc/releases/tag/v1.17.4) |
+| [jc](https://github.com/kellyjonbrazil/jc) | Convert output of command-line tools and file-types to JSON | [2021-12-07 / 1.17.4](https://github.com/kellyjonbrazil/jc/releases/tag/v1.17.4) |
 | [jello](https://github.com/kellyjonbrazil/jello) | Filter JSON and JSON Lines data with Python syntax | [2021-12-08 / 1.5.0](https://github.com/kellyjonbrazil/jello/releases/tag/v1.5.0) |
 | [jq](https://github.com/jqlang/jq) | Lightweight and flexible command-line JSON processor | [2023-09-06 / 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7) |
 | [jqjq](https://github.com/wader/jqjq) | jq implementation of jq | [2024-02-07](https://github.com/wader/jqjq/pull/14) |
 | [KBSecret](https://kbsecret.github.io/) | Secret manager backed by Keybase and KBFS | [2018-04-13 / 1.4.0](https://github.com/kbsecret/kbsecret/commit/d5296054d979a1b1ce07c1be78d56d3d29b62384) |
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [2018-06-06 / 0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [2019-01-19 / 4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
-| [lakeFS](https://github.com/treeverse/lakefs) | Manage your data as code using Git-like operations and achieve reproducible, high-quality data pipelines | [2023-07-10 / 0.109.0](https://github.com/treeverse/lakeFS/releases/tag/v0.109.0) |
+| [lakeFS](https://github.com/treeverse/lakefs) | Manage data as code using Git-like operations | [2023-07-10 / 0.109.0](https://github.com/treeverse/lakeFS/releases/tag/v0.109.0) |
 | [lat](https://github.com/secondary-smiles/lat) | Fast file viewer and text formatter | [2023-04-20 / 0.3.2](https://github.com/secondary-smiles/lat/releases/tag/v0.3.2) |
 | [lbt](https://gitlab.com/gardenappl/lbt) | Friendly tools for interacting with the LBRY network | [2022-03-31 / 2.1.2](https://gitlab.com/gardenappl/lbt/-/releases/v2.1.2) |
 | [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18 / 0.9.1](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
@@ -230,7 +230,7 @@ color by default via `NO_COLOR`.
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
-| [Meltano](https://github.com/meltano/meltano) | Data Ingestion, Transformation, and Management for Data Engineers | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
+| [Meltano](https://github.com/meltano/meltano) | Data ingestion, transformation, and management | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18 / 5.0.0](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [mmCEsim](https://mmcesim.org) | Millimeter Wave Channel Estimation Simulation | [2023-03-31 / 0.2.1](https://github.com/mmcesim/mmcesim/releases/tag/v0.2.1) |
 | [Modules](http://modules.sourceforge.net/) | Dynamic modification of one's environment | [2020-04-07 / 4.5.0](https://github.com/cea-hpc/modules/releases/tag/v4.5.0) |
@@ -277,7 +277,7 @@ color by default via `NO_COLOR`.
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10 / 1.19](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [Tarantool](https://www.tarantool.io/) | In-memory computing platform | [2021-10-19](https://github.com/tarantool/tarantool/commit/1163aa056398e21fbbedc25bcc9aa858fad9cdff) |
-| [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools for Debian, Arch Linux, Tearch and Sulin | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
+| [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
 | [tealdeer](http://github.com/dbrgn/tealdeer) | TLDR pages client | [2020-09-03 / 1.4.0](https://github.com/dbrgn/tealdeer/releases/tag/v1.4.0) |
 | [Telescope](https://telescope.omarpolo.com) | Gemini browser | [2021-06-27 / 0.3](https://github.com/omar-polo/telescope/releases/tag/0.3) |
 | [tio](https://github.com/tio/tio) | A simple serial device I/O tool | [2024-03-06](https://github.com/tio/tio/commit/ed4ac0c797cd25b0b5d31a7654349e928b3eac58) |
@@ -293,13 +293,13 @@ color by default via `NO_COLOR`.
 | [UnrealIRCd](https://www.unrealircd.org) | IRC Server | [2023-03-11](https://github.com/unrealircd/unrealircd/commit/c43753cd4b36ed2662b0df2b2f91887a25b3283e) |
 | [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [2020-06-20 / 0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
-| [woob](https://woob.tech) | Command-line applications to interact with many websites (banking, weather, video, etc.) | [2021-05-13 / 3.1](https://gitlab.com/woob/woob/-/commit/f6b446ba5af7bd80f2795330facc9841740c7076) |
+| [woob](https://woob.tech) | Command-line applications to interact with many websites | [2021-05-13 / 3.1](https://gitlab.com/woob/woob/-/commit/f6b446ba5af7bd80f2795330facc9841740c7076) |
 | [xh](https://github.com/ducaale/xh) | Friendly and fast tool for sending HTTP requests | [2021-02-28 / 0.8.0](https://github.com/ducaale/xh/releases/tag/v0.8.0) |
 | [xidoc](https://xidoc.nim.town/) | Consistent and powerful markup language | [2023-01-09 / 2023.1.9](https://git.sr.ht/~xigoi/xidoc/refs/2023.1.9) |
 | [xplr](https://github.com/sayanarijit/xplr) | File manager | [2021-04-15 / 0.4.4](https://github.com/sayanarijit/xplr/releases/tag/v0.4.4) |
 | [yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube client | [2023-04-22](https://github.com/mps-youtube/yewtube/commit/cd905ec5c5dabcb63b4c37a1a9e12cd74d360bb1) |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Video downloader | [2023-11-20](https://github.com/yt-dlp/yt-dlp/commit/a0b19d319a6ce8b7059318fa17a34b144fde1785) |
-| [zf](https://github.com/natecraddock/zf) | Command-line fuzzy finder that prioritizes matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
+| [zf](https://github.com/natecraddock/zf) | Command-line fuzzy finder prioritizing matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zig](https://github.com/ziglang/zig) | Zig compiler | [2021-12-20 / 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | Smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
 | [zypper](https://github.com/openSUSE/zypper) | openSUSE package manager | [2022-06-15 / 1.14.53](https://github.com/openSUSE/zypper/commit/7a03e8594bb8dbf2af68decc4427d5244f68f46c) |
