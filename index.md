@@ -101,6 +101,7 @@ color by default via `NO_COLOR`.
 | [colored](https://github.com/mackwic/colored) | Rust | Coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
 | [Colorette](https://github.com/jorgebucaran/colorette) | JavaScript | Terminal text color & styles | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
 | [colors-option](https://github.com/ehmicky/colors-option) | JavaScript | Colors and formatting based on chalk | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
+| [colour](https://github.com/Fraser999/colour) | Rust | Macros for creating colored console output | [2024-05-13 / 2.0.0](https://github.com/Fraser999/Colour/blob/master/CHANGELOG.md#200---2024-05-13) |
 | [console-ansi](https://github.com/dmnsgn/console-ansi) | JavaScript | Console coloring and prefixing via Proxy object with ANSI strings | [2022-06-14 / 1.3.0](https://github.com/dmnsgn/console-ansi/blob/main/CHANGELOG.md#130-2022-06-14) |
 | [crayon](https://github.com/r-lib/crayon) | R | Colored terminal output | [2018-02-08 / 1.5.1](https://github.com/r-lib/crayon/commit/700800135d04408bf1c99426b3fec9a4073b8a97) |
 | [crayon.js](https://github.com/crayon-js/crayon) | JavaScript, TypeScript | Terminal styling | [2020-04-10 / 1.0.0](https://github.com/crayon-js/crayon/commit/c7f8b1c4a1acecd93592bd330c04da70c0dc7051) |
