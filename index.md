@@ -193,11 +193,12 @@ color by default via `NO_COLOR`.
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
+| [fzf](https://github.com/junegunn/fzf) | A command-line fuzzy finder | [2024-06-06 / 0.53.0](https://github.com/junegunn/fzf/commit/aee417c46a2f6d2aa87ea3fcc799fdc7bc830dfe) |
 | [gatsby-cli](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli) | GatsbyJS command line interface | [2019-08-05 / 2.20.0](https://github.com/gatsbyjs/gatsby/commit/ccebe174078529329a26350224a1a5730567c695) |
 | [gex](https://github.com/Piturnah/gex) | Git TUI inspired by Magit | [2023-08-05 / 0.6.1](https://github.com/Piturnah/gex/releases/tag/v0.6.1) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
-| [GitHub CLI](https://github.com/cli/cli) | CLI for GitHub to manage pull requests, issues, and others | [2020-09-16 / 1.0.0](https://github.com/cli/cli/commit/6d0da077b656354865360253dc7c482a1dbaa224) |
+| [gh](https://github.com/cli/cli) | GitHub’s official command line tool | [2020-04-22 / 0.7.0](https://github.com/cli/cli/commit/250114e2c033bccd938f297605a915578d8af07c) |
 | [GNU gdb](https://www.sourceware.org/gdb/) | The GNU Debugger | [2023-09-29 / 14.1](https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=4ebfd53de03599b73838ee339e47652ac26c37c0) |
 | [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11 / 2.3](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
 | [gojq](https://github.com/itchyny/gojq) | Pure Go implementation of jq | [2020-03-20 / 0.10.0](https://github.com/itchyny/gojq/commit/17bccf1feb25e428223a31a0cd65c2827e2ef0c1) |
@@ -320,10 +321,8 @@ color by default via `NO_COLOR`.
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
 | [Composer](https://getcomposer.org/) | `composer --no-ansi` ([Docs](https://getcomposer.org/doc/03-cli.md#global-options)) |
 | [FFmpeg](https://ffmpeg.org/) | `export AV_LOG_FORCE_NOCOLOR=true` ([Docs](https://ffmpeg.org/ffmpeg.html#toc-Generic-options)) |
-| [fzf](https://github.com/junegunn/fzf) | `fzf --color=bw` or `export FZF_DEFAULT_OPTS=--color=bw` ([Docs](https://github.com/junegunn/fzf/wiki/Color-schemes)) |
 | [GCC](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-diagnostics-color` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
 | [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui)) |
-| [GitHub](https://git-scm.com/) | `gh config set prompt disabled` ([Docs](https://cli.github.com/manual/gh_config)) |
 | [GoAccess](https://goaccess.io/) | `goaccess --no-color` ([Docs](https://goaccess.io/man#options)) |
 | [GStreamer](https://gstreamer.freedesktop.org/) | `export GST_DEBUG_NO_COLOR=true` or `--gst-debug-no-color` ([Docs](https://gstreamer.freedesktop.org/documentation/gstreamer/running.html)) |
 | [luacheck](https://github.com/lunarmodules/luacheck) | `luacheck --no-color` ([Docs](https://luacheck.readthedocs.io/en/stable/cli.html)) |
