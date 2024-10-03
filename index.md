@@ -310,6 +310,8 @@ color by default via `NO_COLOR`.
 
 ## Disabling color in software not supporting `NO_COLOR` <a name="other"></a>
 
+For tools outputing color to standard out, you can use the [`nocolor`](https://github.com/fortio/terminal#nocolor) filter command to remove all ANSI sequences including colors.
+
 {:.two_col}
 | Software | Method |
 |:-|:-|
