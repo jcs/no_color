@@ -198,6 +198,7 @@ color by default via `NO_COLOR`.
 | [gex](https://github.com/Piturnah/gex) | Git TUI inspired by Magit | [2023-08-05 / 0.6.1](https://github.com/Piturnah/gex/releases/tag/v0.6.1) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
+| [git-task](https://github.com/jhspetersson/git-task) | Local-first task manager for git repositories with remote sync | [2024-10-02 / 0.1.1](https://github.com/jhspetersson/git-task/releases/tag/0.1.1) |
 | [gh](https://github.com/cli/cli) | GitHub’s official command line tool | [2020-04-22 / 0.7.0](https://github.com/cli/cli/commit/250114e2c033bccd938f297605a915578d8af07c) |
 | [GNU gdb](https://www.sourceware.org/gdb/) | The GNU Debugger | [2023-09-29 / 14.1](https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=4ebfd53de03599b73838ee339e47652ac26c37c0) |
 | [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11 / 2.3](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
@@ -317,7 +318,7 @@ color by default via `NO_COLOR`.
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
 | [Chalk](https://github.com/chalk/chalk) | `export FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
-| [CMake](https://cmake.org/) | Set `CMAKE_COLOR_MAKEFILE` to `OFF` ([Docs](https://cmake.org/cmake/help/latest/variable/CMAKE_COLOR_MAKEFILE.html)) |
+| [CMake](https://cmake.org/) | Set `CMAKE_COLOR_DIAGNOSTICS` to `OFF` ([Docs](https://cmake.org/cmake/help/latest/variable/CMAKE_COLOR_DIAGNOSTICS.html)) |
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
 | [Composer](https://getcomposer.org/) | `composer --no-ansi` ([Docs](https://getcomposer.org/doc/03-cli.md#global-options)) |
 | [FFmpeg](https://ffmpeg.org/) | `export AV_LOG_FORCE_NOCOLOR=true` ([Docs](https://ffmpeg.org/ffmpeg.html#toc-Generic-options)) |
