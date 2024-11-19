@@ -208,6 +208,7 @@ color by default via `NO_COLOR`.
 | [gplaces](https://github.com/dimkr/gplaces) | Simple terminal based Gemini client | [2022-06-05 / 0.16.19](https://github.com/dimkr/gplaces/commit/c907bdf719ad069da2f75daf01f371921f5fde0f) |
 | [GraalVM Native Image](https://www.graalvm.org/native-image/) | Compile Java applications ahead-of-time into binaries | [2022-02-28 / 22.1.0](https://github.com/oracle/graal/commit/20f912e13cd97c3c3b527522b194a61eac71a93b) |
 | [gwen](https://github.com/gwen-interpreter/gwen) | Automation and robotics for Gherkin | [2021-11-16 / 3.0.0](https://github.com/gwen-interpreter/gwen/releases/tag/v3.0.0) |
+| [h5glance](https://github.com/European-XFEL/h5glance) | HDF5 file viewer | [2024-11-19 / 0.9](https://github.com/European-XFEL/h5glance/blob/master/CHANGES.rst) |
 | [Hajime](https://github.com/Slackadays/Hajime) | Advanced Minecraft server wrapper | [2022-02-27](https://github.com/Slackadays/Hajime/commit/7ff89c1d29d901ab0dc47474ee85619fbfbbd226) |
 | [Homebrew](https://brew.sh/) | Package manager for macOS | [2018-02-27 / 1.5.5](https://github.com/Homebrew/brew/releases/tag/1.5.5) |
 | [Hono](https://github.com/honojs/hono) | JavaScript framework built on Web Standards | [2024-03-12 / 4.1.0](https://github.com/honojs/hono/releases/tag/v4.1.0) |
