@@ -171,6 +171,7 @@ color by default via `NO_COLOR`.
 | [Clang](https://clang.llvm.org/) | C compiler | [2023-09-19 / 17.0.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.1) |
 | [CliFM](https://github.com/leo-arch/clifm) | The command line file manager | [2021-14-12 / 1.7](https://github.com/leo-arch/clifm/commit/c9e0a1384c8f410922731341a3e8ebfe8b98ec27) |
 | [Clipboard](https://github.com/Slackadays/Clipboard) | The cut, copy, and paste system for the terminal | [2022-12-04 / 0.1.2](https://github.com/Slackadays/Clipboard/commit/79db7ced8fc6c56f79db6555775a470d0e30616e) |
+| [Composer](https://getcomposer.org/) | PHP package manager | [2020-01-14 / 1.9.2](https://github.com/composer/composer/pull/8417) |
 | [Cras](https://sr.ht/~arivigo/cras/) | Cras: The Anti-Procrastination Tool | [2020-06-05 / 0.1.0](https://git.sr.ht/~arivigo/cras/refs/1.0.1) |
 | [Cronie](https://github.com/cronie-crond/cronie) | Cronie cron daemon project | [2021-03-19 / 1.6.1](https://github.com/cronie-crond/cronie/commit/765a745c6497f8cde51c39db7b1bb88686b90a9c) |
 | [csv2db](https://csv2db.github.io/) | CSV database loading tool | [2019-09-23 / 1.4.0](https://github.com/csv2db/csv2db/releases/tag/v1.4.0) |
@@ -322,7 +323,6 @@ color by default via `NO_COLOR`.
 | [Chalk](https://github.com/chalk/chalk) | `export FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
 | [CMake](https://cmake.org/) | Set `CMAKE_COLOR_DIAGNOSTICS` to `OFF` ([Docs](https://cmake.org/cmake/help/latest/variable/CMAKE_COLOR_DIAGNOSTICS.html)) |
 | [Cocoapods](https://cocoapods.org/) | `pod COMMAND --no-ansi` ([Docs](https://guides.cocoapods.org/terminal/commands.html#pod_install)) |
-| [Composer](https://getcomposer.org/) | `composer --no-ansi` ([Docs](https://getcomposer.org/doc/03-cli.md#global-options)) |
 | [FFmpeg](https://ffmpeg.org/) | `export AV_LOG_FORCE_NOCOLOR=true` ([Docs](https://ffmpeg.org/ffmpeg.html#toc-Generic-options)) |
 | [GCC](https://gcc.gnu.org/) | `export GCC_COLORS=` or `-fno-diagnostics-color` ([Docs](https://gcc.gnu.org/onlinedocs/gcc-7.3.0/gcc/Diagnostic-Message-Formatting-Options.html)) |
 | [Git](https://git-scm.com/) | `git config --global color.ui false` ([Docs](https://git-scm.com/docs/git-config#git-config-colorui)) |
