@@ -185,6 +185,7 @@ color by default via `NO_COLOR`.
 | [Diun](https://github.com/crazy-max/diun) | Docker Image Update Notifier | [2021-05-26 / 4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0) |
 | [elfinfo](https://github.com/xyproto/elfinfo) | Utility for displaying ELF information | [2020-01-17 / 1.0.1](https://github.com/xyproto/elfinfo/tree/1.0.1) |
 | [Elixir](https://elixir-lang.org) | Dynamic, functional language | [2020-01-27 / 1.10.0](https://github.com/elixir-lang/elixir/releases/tag/v1.10.0) |
+| [Elle](https://github.com/acquitelol/elle) | Statically typed compiled language | [2025-02-12](https://github.com/acquitelol/elle/commit/8872c8a582e015d2b1c50b18f460f0da63087354) |
 | [Elvish](https://elv.sh) | Powerful scripting language and versatile interactive shell | [2024-02-11 / 0.20.0](https://elv.sh/blog/0.20.0-release-notes.html) |
 | [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24 / 1.1.0](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
 | [exa](https://github.com/ogham/exa) | Modern replacement for ls | [2021-12-06](https://github.com/ogham/exa/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
