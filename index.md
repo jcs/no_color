@@ -314,6 +314,7 @@ color by default via `NO_COLOR`.
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Video downloader | [2023-11-20](https://github.com/yt-dlp/yt-dlp/commit/a0b19d319a6ce8b7059318fa17a34b144fde1785) |
 | [zf](https://github.com/natecraddock/zf) | Command-line fuzzy finder prioritizing matches on filenames | [2022-07-02 / 0.5](https://github.com/natecraddock/zf/blob/master/CHANGELOG.md#05) |
 | [zig](https://github.com/ziglang/zig) | Zig compiler | [2021-12-20 / 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html) |
+| [zimfw](https://zimfw.sh) | Zsh plugin manager | [2024-11-25 / 1.16.0](https://github.com/zimfw/zimfw/releases/tag/v1.16.0) |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | Smarter cd command | [2020-03-05 / 0.1.0](https://github.com/ajeetdsouza/zoxide/releases/tag/v0.1.0) |
 | [zypper](https://github.com/openSUSE/zypper) | openSUSE package manager | [2022-06-15 / 1.14.53](https://github.com/openSUSE/zypper/commit/7a03e8594bb8dbf2af68decc4427d5244f68f46c) |
 {: rules="groups"}
