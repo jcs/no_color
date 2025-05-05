@@ -129,7 +129,6 @@ color by default via `NO_COLOR`.
 | [Pastel](https://github.com/silkfire/Pastel) | .NET | Color console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
 | [php-cli](https://github.com/splitbrain/php-cli) | PHP | PHP library to build command line tools | [2024-12-03 / 1.3.2](https://github.com/splitbrain/php-cli/commit/360ed0b3704fa8fcd1ce976ed79012aa2c67d22f) |
 | [PyTermGUI](https://github.com/bczsalba/pytermgui/) | Python | TUI framework | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
-| [pytocron](https://github.com/hartwork/pytocron) | Python | Container cron | [2025-05-05 / 1.2.0](https://github.com/hartwork/pytocron/releases/tag/v1.2.0) |
 | [rich](https://github.com/Textualize/rich) | Python | Rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
 | [sgr](https://github.com/datafl4sh/sgr) | C++ | Stream manipulators for colored text output | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
 | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | .NET | Create beautiful console applications | [2020-07-21 / 0.1.0](https://github.com/spectreconsole/spectre.console/commit/334dcddc1aa62953ad6c2190344bf5b94820614c) |
@@ -276,6 +275,7 @@ color by default via `NO_COLOR`.
 | [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14 / 3.1](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
 | [Python](https://docs.python.org/3.13/using/cmdline.html#using-on-controlling-color) | Python REPL, tracebacks and `doctest` output | [2024-05-08 / 3.13.0b1](https://docs.python.org/3.13/whatsnew/3.13.html) |
+| [pytocron](https://github.com/hartwork/pytocron) | Container cron | [2025-05-05 / 1.2.0](https://github.com/hartwork/pytocron/releases/tag/v1.2.0) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Line-oriented search tool | [2020-01-11 / 12.0.0](https://github.com/BurntSushi/ripgrep/commit/5a6e17fcc133f70f922a123483d0d5a158c041b0) |
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09 / 0.7.3](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [rsyncy](https://github.com/laktak/rsyncy) | Status/progress bar for rsync | [2023-06-30 / 0.2.0](https://github.com/laktak/rsyncy/commit/8baf2771b7b3a4cbd2d8ea11931f1eb859ec0473) |
