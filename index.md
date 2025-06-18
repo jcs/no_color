@@ -329,6 +329,7 @@ color by default via `NO_COLOR`.
 |:-|:-|
 | [Ammonite](https://github.com/lihaoyi/Ammonite) | `amm --color false` ([Docs](https://ammonite.io/#1.0.0)) |
 | [Arcanist](https://github.com/phacility/arcanist) | `arc --no-ansi COMMAND` ([Docs](http://manpages.ubuntu.com/manpages/xenial/man1/arc.1.html)) |
+| [aria2](https://aria2.github.io/) | `aria2c --enable-color=false` ([Docs](https://aria2.github.io/manual/en/html/aria2c.html#cmdoption-enable-color)) |
 | [Bundler](https://bundler.io/) | `bundle COMMAND --no-color` ([Docs](https://bundler.io/v1.15/man/bundle.1.html)) |
 | [Chalk](https://github.com/chalk/chalk) | `export FORCE_COLOR=0` ([Docs](https://github.com/chalk/chalk#supportscolor)) |
 | [CMake](https://cmake.org/) | Set `CMAKE_COLOR_DIAGNOSTICS` to `OFF` ([Docs](https://cmake.org/cmake/help/latest/variable/CMAKE_COLOR_DIAGNOSTICS.html)) |
