@@ -197,6 +197,7 @@ color by default via `NO_COLOR`.
 | [fast-asar](https://github.com/lafkpages/fast-asar) | A faster implementation of Electron's ASAR archive format | [2023-10-17 / 1.0.5](https://github.com/lafkpages/fast-asar/commit/10da0ea1997ef4bcc359a003852160b4343c59a0) |
 | [fastlane](https://fastlane.tools) | The easiest way to build and release mobile apps | [2020-11-19 / 2.168.0](https://github.com/fastlane/fastlane/releases/tag/2.168.0) |
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
+| [fetchcommandwrapper](https://github.com/hartwork/fetchcommandwrapper) | Integrates aria2 with `FETCHCOMMAND` of portage for faster downloads | [2025-06-18 / 1.0.0](https://github.com/hartwork/fetchcommandwrapper/pull/52) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
