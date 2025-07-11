@@ -291,8 +291,8 @@ color by default via `NO_COLOR`.
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24 / 2.3.2](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
 | [soupault](https://soupault.app) | Static website generator based on HTML rewriting | [2021-07-19 / 3.0.0](https://soupault.app/blog/soupault-3.0.0-release/) |
 | [Sphinx](https://sphinx-doc.org/) | The Sphinx documentation generator | [2022-03-28 / 4.5.0](https://www.sphinx-doc.org/en/master/changes.html#release-4-5-0-released-mar-28-2022) |
-| [sqlfmt](https://sqlfmt.com) | Autoformatter for dbt SQL | [2021-11-05 / 0.1.0](https://docs.sqlfmt.com/getting-started/configuring-sqlfmt#no-color-and-force-color) |
 | [sqlfluff](https://sqlfluff.com/) | The SQL Linter for humans | [2025-07-11 / 3.4.2](https://github.com/sqlfluff/sqlfluff/releases/tag/3.4.2) |
+| [sqlfmt](https://sqlfmt.com) | Autoformatter for dbt SQL | [2021-11-05 / 0.1.0](https://docs.sqlfmt.com/getting-started/configuring-sqlfmt#no-color-and-force-color) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10 / 1.19](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [Tarantool](https://www.tarantool.io/) | In-memory computing platform | [2021-10-19](https://github.com/tarantool/tarantool/commit/1163aa056398e21fbbedc25bcc9aa858fad9cdff) |
