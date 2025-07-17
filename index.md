@@ -192,6 +192,7 @@ color by default via `NO_COLOR`.
 | [Elle](https://github.com/acquitelol/elle) | Statically typed compiled language | [2025-02-12](https://github.com/acquitelol/elle/commit/8872c8a582e015d2b1c50b18f460f0da63087354) |
 | [Elvish](https://elv.sh) | Powerful scripting language and versatile interactive shell | [2024-02-11 / 0.20.0](https://elv.sh/blog/0.20.0-release-notes.html) |
 | [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | Next generation enum4linux (Windows/Samba enumeration tool) | [2020-10-24 / 1.1.0](https://github.com/cddmp/enum4linux-ng/commit/fa8f371de9975d4613c6ed9582b26db2584d10d8) |
+| [esbuild](https://github.com/evanw/esbuild) | JS/TS/CSS bundler | [2021-05-18 / 0.12.0](https://github.com/evanw/esbuild/releases/v0.12.0) |
 | [exa](https://github.com/ogham/exa) | Modern replacement for ls | [2021-12-06](https://github.com/ogham/exa/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
 | [eza](https://github.com/cafkafk/eza) | Modern, maintained replacement for ls | [2021-12-06](https://github.com/cafkafk/eza/commit/7c957f95b328aabe75f7494633dae5893d4ed3d1) |
 | [F2](https://github.com/ayoisaiah/f2) | Safe and fast cross-platform bulk-rename tool | [2021-05-04 / 1.5.7](https://github.com/ayoisaiah/f2/releases/tag/v1.5.7) |
