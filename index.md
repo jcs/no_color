@@ -296,7 +296,7 @@ color by default via `NO_COLOR`.
 | [sqlfluff](https://sqlfluff.com/) | The SQL Linter for humans | [2025-07-11 / 3.4.2](https://github.com/sqlfluff/sqlfluff/releases/tag/3.4.2) |
 | [sqlfmt](https://sqlfmt.com) | Autoformatter for dbt SQL | [2021-11-05 / 0.1.0](https://docs.sqlfmt.com/getting-started/configuring-sqlfmt#no-color-and-force-color) |
 | [Symfony](https://github.com/symfony/symfony) | PHP framework and reusable components | [2019-11-21 / 4.4.0](https://symfony.com/releases/4.4) |
-| [TaskLite](https://tasklite.org/) | CLI task manager | [2025-07-25 / 0.5](https://github.com/ad-si/TaskLite/releases/tag/v0.5.0.0) |
+| [TaskLite](https://tasklite.org/) | CLI task manager | [2025-07-26 / 0.5](https://github.com/ad-si/TaskLite/releases/tag/v0.5.0.0) |
 | [taoup](http://github.com/globalcitizen/taoup) | Fortune implementation | [2018-09-10 / 1.19](https://github.com/globalcitizen/taoup/commit/fb2dc7768a2dc9b74816ce5126e40b93338291f7) |
 | [Tarantool](https://www.tarantool.io/) | In-memory computing platform | [2021-10-19](https://github.com/tarantool/tarantool/commit/1163aa056398e21fbbedc25bcc9aa858fad9cdff) |
 | [TeaISO](https://gitlab.com/tearch-linux/applications-and-tools/teaiso) | Live ISO generation tools | [2021-10-22](https://gitlab.com/tearch-linux/applications-and-tools/teaiso/-/commit/151c61c299bd71adc1987ef73ad588cfbe88d244) |
