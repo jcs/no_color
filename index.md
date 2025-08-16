@@ -96,7 +96,7 @@ color by default via `NO_COLOR`.
 | [Bashkit](https://bashkit.wuage.io) | Bash | Scripting model and framework | [2023-01-27 / 1.2301.32](https://github.com/Wuageorg/bashkit/blob/e99a907f538db88cf8de1a354e5c87b21e27fcea/CHANGELOG.md) |
 | [bitstring](https://github.com/scott-griffiths/bitstring) | Python | Efficient and flexible handling of binary data | [2024-04-22 / 4.2.0](https://github.com/scott-griffiths/bitstring/blob/fc3c11eef79de27eca25c7516c3549615c378fd7/release_notes.txt) |
 | [cfonts](https://github.com/dominikwilkowski/cfonts) | Rust, JavaScript | Colorful fonts in the console | [2022-05-28 / 3.0.0](https://github.com/dominikwilkowski/cfonts/releases/tag/v3.0.0-nodejs) |
-| [chronicles](https://github.com/status-im/nim-chronicles) | Nim | Structured logging framework with console support | [2025-07-24 / 0.12.0(https://github.com/status-im/nim-chronicles/releases/tag/v0.12.0) |
+| [chronicles](https://github.com/status-im/nim-chronicles) | Nim | Structured logging framework with console support | [2025-07-24 / 0.12.0](https://github.com/status-im/nim-chronicles/releases/tag/v0.12.0) |
 | [Cleo](https://github.com/python-poetry/cleo) | Python | Beautiful and testable command-line interfaces | [2021-01-29 / 1.0.0a1](https://github.com/python-poetry/cleo/releases/tag/1.0.0a1) |
 | [cli-color](https://github.com/medikoo/cli-color) | JavaScript | Colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [click-extra](https://github.com/kdeldycke/click-extra) | Python | Utilities for Click, the Python CLI framework | [2022-04-11 / 2.0.0](https://github.com/kdeldycke/click-extra/blob/main/changelog.md#gh200-2022-04-11-comparev190v200) |
