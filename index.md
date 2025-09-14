@@ -100,6 +100,7 @@ color by default via `NO_COLOR`.
 | [Cleo](https://github.com/python-poetry/cleo) | Python | Beautiful and testable command-line interfaces | [2021-01-29 / 1.0.0a1](https://github.com/python-poetry/cleo/releases/tag/1.0.0a1) |
 | [cli-color](https://github.com/medikoo/cli-color) | JavaScript | Colors and formatting | [2019-10-09 / 2.0.0](https://github.com/medikoo/cli-color/releases/tag/v2.0.0) |
 | [click-extra](https://github.com/kdeldycke/click-extra) | Python | Utilities for Click, the Python CLI framework | [2022-04-11 / 2.0.0](https://github.com/kdeldycke/click-extra/blob/main/changelog.md#gh200-2022-04-11-comparev190v200) |
+| [cligen](https://github.com/c-blake/cligen) | Nim | Library to infer/generate command-line-interfaces | [2020-05-04 / 0.9.46](https://github.com/c-blake/cligen/commit/cb54c6e7b426c9ef96ac94c7ffb7bc2ba9254b4f) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | C, C++ | Colorful command line output macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust | Coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
 | [Colorette](https://github.com/jorgebucaran/colorette) | JavaScript | Terminal text color & styles | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
