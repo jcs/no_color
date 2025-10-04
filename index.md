@@ -103,6 +103,7 @@ color by default via `NO_COLOR`.
 | [cligen](https://github.com/c-blake/cligen) | Nim | Library to infer/generate command-line-interfaces | [2020-05-04 / 0.9.46](https://github.com/c-blake/cligen/commit/cb54c6e7b426c9ef96ac94c7ffb7bc2ba9254b4f) |
 | [ColorDebug](https://github.com/roboticslab-uc3m/color-debug) | C, C++ | Colorful command line output macros | [2019-02-09](https://github.com/roboticslab-uc3m/color-debug/commit/2e2a5bf5a202228985612008967fb63ba8be53d8) |
 | [colored](https://github.com/mackwic/colored) | Rust | Coloring terminal output | [2019-01-05 / 1.7.0](https://github.com/mackwic/colored/blob/master/CHANGELOG.md#170-january-2019) |
+| [coloredstrings](https://github.com/samedit66/coloredstrings) | Python | Colors & styles for text | [2025-10-05 / 2.1.0](https://github.com/samedit66/coloredstrings/releases/tag/v2.1.0) |
 | [Colorette](https://github.com/jorgebucaran/colorette) | JavaScript | Terminal text color & styles | [2021-09-17 / 2.0.0](https://github.com/jorgebucaran/colorette/releases/tag/2.0.0) |
 | [colors-option](https://github.com/ehmicky/colors-option) | JavaScript | Colors and formatting based on chalk | [2021-03-02 / 1.0.0](https://github.com/ehmicky/colors-option/blob/master/CHANGELOG.md#100) |
 | [colour](https://github.com/Fraser999/colour) | Rust | Macros for creating colored console output | [2024-05-13 / 2.0.0](https://github.com/Fraser999/Colour/blob/master/CHANGELOG.md#200---2024-05-13) |
