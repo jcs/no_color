@@ -132,6 +132,7 @@ color by default via `NO_COLOR`.
 | [paint](https://github.com/janlelis/paint) | Ruby | Terminal colors and effects | [2020-02-21 / 2.2.0](https://github.com/janlelis/paint/tree/v2.2.0) |
 | [pastel](https://github.com/piotrmurach/pastel) | Ruby | Terminal output styling | [2020-07-04 / 0.8.0](https://github.com/piotrmurach/pastel/releases/tag/v0.8.0) |
 | [Pastel](https://github.com/silkfire/Pastel) | .NET | Color console output | [2019-03-17 / 1.2.0](https://github.com/silkfire/Pastel/commit/8a89c2930a2b7ff2c6beae67e6c00fe1d74189d5) |
+| [pfetch](https://github.com/silkfire/Pastel) | Shell | Pretty system information | [2024-08-01](https://github.com/Un1q32/pfetch/commit/efa9b369b467934e168cd26f69bbd4661e29e065) |
 | [php-cli](https://github.com/splitbrain/php-cli) | PHP | PHP library to build command line tools | [2024-12-03 / 1.3.2](https://github.com/splitbrain/php-cli/commit/360ed0b3704fa8fcd1ce976ed79012aa2c67d22f) |
 | [PyTermGUI](https://github.com/bczsalba/pytermgui/) | Python | TUI framework | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
 | [rich](https://github.com/Textualize/rich) | Python | Rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
