@@ -278,6 +278,7 @@ color by default via `NO_COLOR`.
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [pipewire](https://pipewire.org/) | PipeWire multimedia server | [2021-03-13 / 0.3.24](https://gitlab.freedesktop.org/pipewire/pipewire/-/commit/c974318686ced66546861494509d2ee93fc110d9) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
+| [Poe the Poet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv | [2023-09-23 / v0.23.0](https://github.com/nat-n/poethepoet/releases/tag/v0.23.0) |
 | [Poetry](https://github.com/python-poetry/poetry) | Dependency management and packaging in Python | [2021-05-21 / 1.2.0a1](https://github.com/python-poetry/poetry/releases/tag/1.2.0a1) |
 | [PowerShell](https://microsoft.com/PowerShell) | Shell and scripting language | [2021-11-08 / 7.2.0](https://docs.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-72) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
