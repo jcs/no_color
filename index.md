@@ -207,6 +207,7 @@ color by default via `NO_COLOR`.
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [fetchcommandwrapper](https://github.com/hartwork/fetchcommandwrapper) | Integrates aria2 with `FETCHCOMMAND` of portage | [2025-06-18 / 1.0.0](https://github.com/hartwork/fetchcommandwrapper/pull/52) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
+| [firefox-password-merger](https://github.com/jhinrichsen/firefox-password-merger) | Merge Firefox password CSV exports across machines | [2025-10-28 / v0.3.0](https://github.com/jhinrichsen/firefox-password-merger/commit/a11e302ae233e590bef4109eba5c12a454124aca) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
