@@ -176,6 +176,7 @@ color by default via `NO_COLOR`.
 | [CakePHP](https://github.com/cakephp/cakephp) | Full stack framework for PHP | [2019-12-30 / 4.0.1](https://github.com/cakephp/cakephp/pull/14158) |
 | [Candalf](https://github.com/jarmo/candalf) | Orchestrate system configuration/setup/management | [2022-03-22](https://github.com/jarmo/candalf/commit/54678fb7730fe803927f3831fec7280e69e5aca1) |
 | [cdist](https://www.cdi.st/) | Usable configuration management | [2020-06-17 / 6.6.0](https://code.ungleich.ch/ungleich-public/cdist/-/releases/6.6.0) |
+| [Ceccomp](https://github.com/dbgbgtf1/Ceccomp) | A tool for seccomp resolve | [2025-11-06 / 3.4](https://github.com/dbgbgtf1/Ceccomp/commit/2c07b7d05192bd303dd9df333404fd4b28995323) |
 | [checkit](https://gitgud.io/BoraxMan/checkit) | File integrity tool for Linux and Unix systems | [2022-09-08 / 0.5.1](https://gitgud.io/BoraxMan/checkit/-/tags/v0.5.1) |
 | [chezmoi](https://chezmoi.io/) | Manage dotfiles across multiple machines, securely | [2020-05-06 / 1.8.1](https://github.com/twpayne/chezmoi/releases/tag/v1.8.1) |
 | [Clang](https://clang.llvm.org/) | C compiler | [2023-09-19 / 17.0.1](https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.1) |
