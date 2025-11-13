@@ -56,7 +56,7 @@ File.open("index.md") do |f|
   fails = false
 
   while f && !f.eof?
-    line = f.gets
+    line = f.gets.gsub(/\n\z/, "")
     lc += 1
     descr = nil
 
@@ -68,6 +68,9 @@ File.open("index.md") do |f|
     when :libraries, :software, :non_believers
       if line.match(/^\{: rules/)
         state = next_state(state)
+      elsif line.strip != line
+        puts "Line #{lc} has leading or trailing whitespace: #{line.inspect}"
+        fails = true
       else
         parts = []
         if m = line.match(/^\| (.+) \|$/)
