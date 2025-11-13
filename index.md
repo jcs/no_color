@@ -259,6 +259,7 @@ color by default via `NO_COLOR`.
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
 | [Meltano](https://github.com/meltano/meltano) | Data ingestion, transformation, and management | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
+| [memy](https://github.com/andrewferrier/memy) | Manage frequently used files and dirs from the CLI | [2025-11-12 / 0.15.0](https://github.com/andrewferrier/memy/releases/tag/v0.15.0) |
 | [Microfetch](https://github.com/NotAShelf/Microfetch) | Very fetch tool in Rust for NixOS systems | [2024-12-19 / 0.4.3](https://github.com/NotAShelf/microfetch/releases/tag/v0.4.3) |
 | [Middleman](https://middlemanapp.com) | Ruby-based static site generator | [2019-02-18 / 5.0.0](https://github.com/middleman/middleman/commit/3040ffa1331aa48c76ae5ca7f4b2e0a0f1b7af15) |
 | [mmCEsim](https://mmcesim.org) | Millimeter Wave Channel Estimation Simulation | [2023-03-31 / 0.2.1](https://github.com/mmcesim/mmcesim/releases/tag/v0.2.1) |
