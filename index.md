@@ -219,6 +219,7 @@ color by default via `NO_COLOR`.
 | [gex](https://github.com/Piturnah/gex) | Git TUI inspired by Magit | [2023-08-05 / 0.6.1](https://github.com/Piturnah/gex/releases/tag/v0.6.1) |
 | [gh](https://github.com/cli/cli) | GitHub’s official command line tool | [2020-04-22 / 0.7.0](https://github.com/cli/cli/commit/250114e2c033bccd938f297605a915578d8af07c) |
 | [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) | Command-line tool to delete merged Git branches | [2020-06-29 / 1.2.0](https://github.com/hartwork/git-delete-merged-branches/commit/62bd406fba91e831e29663a483bfe7659b4c62f3) |
+| [git-log-tree](https://github.com/xiaoshanyan9/git-log-tree) | A fancy `git log --graph` | [2025-11-13 / 1.1.0](https://github.com/xiaoshanyan9/git-log-tree/releases/tag/v1.1.0) |
 | [git-subline-merge](https://github.com/paulaltin/git-subline-merge) | Git merge driver for resolving conflicts | [2019-07-27](https://github.com/paulaltin/git-subline-merge/commit/d8f738a62f96dfdf315511cece7c93526e48baef) |
 | [git-task](https://github.com/jhspetersson/git-task) | Local-first task manager for git repositories with remote sync | [2024-10-02 / 0.1.1](https://github.com/jhspetersson/git-task/releases/tag/0.1.1) |
 | [GNU gdb](https://www.sourceware.org/gdb/) | The GNU Debugger | [2023-09-29 / 14.1](https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=4ebfd53de03599b73838ee339e47652ac26c37c0) |
