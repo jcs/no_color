@@ -290,6 +290,7 @@ color by default via `NO_COLOR`.
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
 | [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14 / 3.1](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
+| [pydf](https://github.com/garabik/pydf) | df(1) clone with colour output | [2025-11-27 / 15.0.0](https://github.com/garabik/pydf/pull/18) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
 | [Python](https://docs.python.org/3.13/using/cmdline.html#using-on-controlling-color) | Python REPL, tracebacks and `doctest` output | [2024-05-08 / 3.13.0b1](https://docs.python.org/3.13/whatsnew/3.13.html) |
 | [pytocron](https://github.com/hartwork/pytocron) | Container cron | [2025-05-05 / 1.2.0](https://github.com/hartwork/pytocron/releases/tag/v1.2.0) |
