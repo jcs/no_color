@@ -253,6 +253,7 @@ color by default via `NO_COLOR`.
 | [jq](https://github.com/jqlang/jq) | Lightweight and flexible command-line JSON processor | [2023-09-06 / 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7) |
 | [jqjq](https://github.com/wader/jqjq) | jq implementation of jq | [2024-02-07](https://github.com/wader/jqjq/pull/14) |
 | [KBSecret](https://kbsecret.github.io/) | Secret manager backed by Keybase and KBFS | [2018-04-13 / 1.4.0](https://github.com/kbsecret/kbsecret/commit/d5296054d979a1b1ce07c1be78d56d3d29b62384) |
+| [Kibi](https://github.com/ilai-deutel/kibi) | Featureful text editor in ≤1024 lines of Rust | [2025-11-23 / 0.3.2](https://github.com/ilai-deutel/kibi/releases/tag/v0.3.2) |
 | [kitten](https://github.com/hoffa/kitten) | Tiny multi-server automation tool | [2018-06-06 / 0.2.14](https://github.com/hoffa/kitten/commit/88cb015f4ae021a1c00bfc4dc9506a8e14e51bb4) |
 | [konch](https://github.com/sloria/konch) | Python shell/REPL configuration tool | [2019-01-19 / 4.0.0](https://github.com/sloria/konch/blob/master/CHANGELOG.rst#400-2019-01-19) |
 | [lakeFS](https://github.com/treeverse/lakefs) | Manage data as code using Git-like operations | [2023-07-10 / 0.109.0](https://github.com/treeverse/lakeFS/releases/tag/v0.109.0) |
