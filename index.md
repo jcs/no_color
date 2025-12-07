@@ -82,6 +82,13 @@ in the presence of `NO_COLOR`?**
 	does not need to care about `NO_COLOR`, because it will only ever be
 	adding color when instructed to do so (as it should be).
 
+3. **Should the presence of `NO_COLOR` disable other styling such as bold,
+underline, and italic?**
+
+	No.
+	This standard only signals the user's intention regarding adding ANSI color
+	to text output.
+
 ## Color libraries supporting `NO_COLOR` to disable default color output
 
 Software using these libraries to output color inherently support disabling
