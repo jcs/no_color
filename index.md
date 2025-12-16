@@ -297,7 +297,7 @@ color by default via `NO_COLOR`.
 | [PowerShell](https://microsoft.com/PowerShell) | Shell and scripting language | [2021-11-08 / 7.2.0](https://docs.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-72) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
-| [pwndbg](https://github.com/pwndbg/pwndbg) | A GDB and LLDB plug-in that makes debugging suck less | [2025-10-10 / 2025.10.10](https://github.com/pwndbg/pwndbg/pull/3239) |
+| [pwndbg](https://github.com/pwndbg/pwndbg) | A GDB and LLDB plug-in that makes debugging suck less | [2025-08-16 / 2025.10.10](https://github.com/pwndbg/pwndbg/pull/3239) |
 | [PyDERASN](http://www.pyderasn.cypherpunks.ru/) | Python ASN.1 DER/CER/BER library | [2018-02-14 / 3.1](http://www.git.cypherpunks.ru/?p=pyderasn.git;a=commitdiff;h=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [pydf](https://github.com/garabik/pydf) | df(1) clone with colour output | [2025-11-27 / 15.0.0](https://github.com/garabik/pydf/pull/18) |
 | [pytest](https://pytest.org) | Python testing framework | [2020-07-28 / 6.0.0](https://docs.pytest.org/en/stable/changelog.html#pytest-6-0-0-2020-07-28) |
