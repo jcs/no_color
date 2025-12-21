@@ -372,6 +372,7 @@ color by default via `NO_COLOR`.
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
 | [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true` |
+| [pre-commit](https://pre-commit.com/) | `pre-commit --color=never` or `export PRE_COMMIT_COLOR=never` ([Docs](https://pre-commit.com/#command-line-interface), [Rejected `NO_COLOR` Request](https://github.com/pre-commit/pre-commit/issues/1073#issuecomment-514247757)) |
 | [Puppet](https://www.puppet.com/) | `puppet agent --color false`  ([Docs](https://www.puppet.com/docs/puppet/8/configuration#color)) |
 | [Radare](https://www.radare.org/r/) | `radare2 -e scr.color=0` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
