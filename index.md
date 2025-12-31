@@ -177,6 +177,7 @@ color by default via `NO_COLOR`.
 | [bfs](https://github.com/tavianator/bfs) | Breadth-first version of the UNIX find command | [2019-05-06 / 1.4.1](https://github.com/tavianator/bfs/releases/tag/1.4.1) |
 | [Bibtex autocomplete](https://github.com/dlesbre/bibtex-autocomplete) | Autocomplete bibtex entries using online data | [2025-03-03 / 1.4.1](https://github.com/dlesbre/bibtex-autocomplete/releases/tag/v1.4.1) |
 | [Bikeshed](https://github.com/tabatkins/bikeshed) | Spec/Document Processor | [2018-07-27 / 0.9](https://github.com/tabatkins/bikeshed/commit/04ea123d607a8d4bed692ad73dda1cb343bb5bbe) |
+| [bl-agent-debater](https://github.com/beyond-logic-labs/bl-agent-debater) | CLI tool for structured debates between AI agents | [2025-12-31](https://github.com/beyond-logic-labs/bl-agent-debater/commit/main) |
 | [blocky](https://github.com/0xERR0R/blocky) | Fast and lightweight DNS proxy | [2025-11-04 / 0.28.0](https://github.com/0xERR0R/blocky/commit/ac8ca7dc1f4671ae189ef187d3cbf1befc247a00) |
 | [Bloop](https://github.com/scalacenter/bloop) | Compilation/test server for Scala and Java | [2018-07-02 / 1.5.3](https://github.com/scalacenter/bloop/pull/555/commits/ff6f17a0155633f86440e10d7889f077e7fbc91c) |
 | [borgmatic](https://torsion.org/borgmatic) | Simple, configuration-driven backup software | [2024-03-04 / 1.8.9](https://projects.torsion.org/borgmatic-collective/borgmatic/commit/16bc0de3fb76f027c81353899d4e7a4d6b386dbc) |
