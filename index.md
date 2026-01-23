@@ -340,6 +340,7 @@ color by default via `NO_COLOR`.
 | [ugrep](https://ugrep.com) | File pattern searcher | [2024-04-03 / 5.1.2](https://github.com/Genivia/ugrep/releases/tag/v5.1.2) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
 | [UnrealIRCd](https://www.unrealircd.org) | IRC Server | [2023-03-11](https://github.com/unrealircd/unrealircd/commit/c43753cd4b36ed2662b0df2b2f91887a25b3283e) |
+| [UpCloud CLI (upctl)](https://github.com/UpCloudLtd/upcloud-cli) | Command line interface to UpCloud services | [2022-07-15 / 1.5.1](https://github.com/UpCloudLtd/upcloud-cli/releases/tag/v1.5.1) |
 | [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [2020-06-20 / 0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 | [woob](https://woob.tech) | Command-line applications to interact with many websites | [2021-05-13 / 3.1](https://gitlab.com/woob/woob/-/commit/f6b446ba5af7bd80f2795330facc9841740c7076) |
