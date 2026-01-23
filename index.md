@@ -130,6 +130,7 @@ color by default via `NO_COLOR`.
 | [GLib](https://docs.gtk.org/glib/) | C | Low-level core library that forms the basis for projects such as GTK and GNOME | [2025-11-05 / 2.87.1](https://gitlab.gnome.org/GNOME/glib/-/commit/a53df3a4b8668196c4538442c702fe40492d54ae) |
 | [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html) | C | Library for styling text output with CSS | [2019-08-13 / 0.21](https://github.com/autotools-mirror/gettext/commit/7040b13946b3dce5fbe2be8ecfda11e03eed7028) |
 | [go-ansi](https://git.sr.ht/~mpldr/go-ansi/) | Go | Easy text formatting | [2021-05-18 / 1.4.0](https://git.sr.ht/~mpldr/go-ansi/commit/5d3db1d715a4ab8b00dda60b9b87054a4146c1aa) |
+| [go-supportscolor](https://github.com/jwalton/go-supportscolor) | Go | Library to detect terminal color support | [2021-10-06 / 1.1.0](https://github.com/jwalton/go-supportscolor/releases/tag/v1.1.0) |
 | [inquire](https://github.com/mikaelmello/inquire) | Rust | Build interactive prompts | [2021-08-29 / 0.0.10](https://github.com/mikaelmello/inquire/releases/tag/v0.0.10) |
 | [kleur](https://github.com/lukeed/kleur) | JavaScript | Format terminal text with ANSI colors | [2020-08-12 / 4.1.0](https://github.com/lukeed/kleur/releases/tag/v4.1.0) |
 | [LogColor](https://github.com/induane/logcolor) | Python | Color output in log messages | [2018-01-24 / 1.2.0](https://github.com/induane/logcolor/commit/0092b0af2a1506eee2b0ca028b1cf51f78fc91fa) |
