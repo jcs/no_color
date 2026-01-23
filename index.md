@@ -311,7 +311,7 @@ color by default via `NO_COLOR`.
 | [rsmodules](https://github.com/fretn/rsmodules) | Manage one's environment by the use of modulefiles | [2018-10-09 / 0.7.3](https://github.com/fretn/rsmodules/commit/87a45f96a9bd45b86300a6027bb29855778d4f5e) |
 | [rsyncy](https://github.com/laktak/rsyncy) | Status/progress bar for rsync | [2023-06-30 / 0.2.0](https://github.com/laktak/rsyncy/commit/8baf2771b7b3a4cbd2d8ea11931f1eb859ec0473) |
 | [Ruff](https://github.com/charliermarsh/ruff) | Python linter written in Rust | [2023-08-09](https://github.com/charliermarsh/ruff/commit/0d8e4bd6e9580a2484fa68c45cb3569e0815ac3f) |
-| [SaC](https://sac-home.org/) | Functinal array programming language with C like syntax | [2025-11-19](https://gitlab.sac-home.org/sac-group/sac2c/-/commit/5478e5dd9939c44855b01e5875878c6d9416964f) |
+| [SaC](https://sac-home.org/) | Functional array programming language with C like syntax | [2025-11-19](https://gitlab.sac-home.org/sac-group/sac2c/-/commit/5478e5dd9939c44855b01e5875878c6d9416964f) |
 | [Scipion](http://scipion.i2pc.es) | CryoEM and CryoET image processing workflow engine | [2022-07-07 / 3.0.22](https://github.com/scipion-em/scipion-pyworkflow/tree/v3.0.22) |
 | [ShellSpec](https://shellspec.info/) | Full-featured BDD unit testing framework for shell scripts | [2020-06-21 / 0.25.0](https://github.com/shellspec/shellspec/releases/tag/0.25.0) |
 | [shuffle](https://github.com/hyperjeff/shuffle) | Command line music player | [2022-02-03 / 1.9.1](https://github.com/hyperjeff/homebrew-tools/releases/tag/v1.9.1) |
