@@ -238,7 +238,7 @@ color by default via `NO_COLOR`.
 | [git-task](https://github.com/jhspetersson/git-task) | Local-first task manager for git repositories with remote sync | [2024-10-02 / 0.1.1](https://github.com/jhspetersson/git-task/releases/tag/0.1.1) |
 | [git-who](https://github.com/sinclairtarget/git-who) | Git blame for file trees | [2026-01-24 / 1.3](https://github.com/sinclairtarget/git-who/releases/tag/v1.3) |
 | [GNU gdb](https://www.sourceware.org/gdb/) | The GNU Debugger | [2023-09-29 / 14.1](https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=4ebfd53de03599b73838ee339e47652ac26c37c0) |
-| [go-apple-ads]([https://github.com/gopasspw/gopass](https://github.com/ndx-technologies/go-apple-ads/)) | Apple Ads Toolkit | [2026-03-10 / v0.4.4](https://github.com/ndx-technologies/go-apple-ads/releases/tag/v0.4.4)) |
+| [go-apple-ads](https://github.com/ndx-technologies/go-apple-ads/) | Apple Ads Toolkit | [2026-03-10 / v0.4.4](https://github.com/ndx-technologies/go-apple-ads/releases/tag/v0.4.4)) |
 | [gocryptfs](https://github.com/rfjakob/gocryptfs) | Encrypted FUSE filesystem | [2021-12-11 / 2.3](https://github.com/rfjakob/gocryptfs/commit/a1f01419e2e6e5d637ec7afa31c0a1d95e0ea923) |
 | [gojq](https://github.com/itchyny/gojq) | Pure Go implementation of jq | [2020-03-20 / 0.10.0](https://github.com/itchyny/gojq/commit/17bccf1feb25e428223a31a0cd65c2827e2ef0c1) |
 | [gopass](https://github.com/gopasspw/gopass) | Password store for teams | [2018-06-06 / 1.8.0](https://github.com/gopasspw/gopass/releases/tag/v1.8.0) |
