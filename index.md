@@ -123,7 +123,7 @@ color by default via `NO_COLOR`.
 | [Dahlia](https://github.com/trag1c/Dahlia) | Python | Simple text formatting package, inspired by Minecraft | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
 | [darvil82.terminal-text-formatter](https://github.com/darvil82/java-terminal-text-formatter) | Java | TextFormatter utility to easily color and format text | [2024-03-11 / 2.1.0](https://github.com/darvil82/java-terminal-text-formatter/releases/tag/2.1.0) |
 | [Dye](https://github.com/dduan/Dye) | Swift | Cross-platform terminal styling | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
-| [fmtx](https://github.com/ndx-technologies/fmtx/) | Go | beautiful and simple text interfaces | [2026-03-10 / v0.2.0](https://github.com/ndx-technologies/fmtx/releases/tag/v0.2.0) |
+| [fmtx](https://github.com/ndx-technologies/fmtx/) | Go | beautiful and simple text interfaces | [2026-03-10 / 0.2.0](https://github.com/ndx-technologies/fmtx/releases/tag/v0.2.0) |
 | [Fude](https://github.com/msanguineti/fude) | JavaScript | Terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
 | [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | .NET | Virtual terminal functionality, console traits, and useful primitives | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
 | [gchalk](https://github.com/jwalton/gchalk) | Go | Terminal string styling with Windows 10 support | [2021-10-06 / 1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
@@ -224,7 +224,7 @@ color by default via `NO_COLOR`.
 | [fd](https://github.com/sharkdp/fd) | Simple, fast, and user-friendly alternative to `find` | [2020-03-22 / 7.5.0](https://github.com/sharkdp/fd/releases/tag/v7.5.0) |
 | [fetchcommandwrapper](https://github.com/hartwork/fetchcommandwrapper) | Integrates aria2 with `FETCHCOMMAND` of portage | [2025-06-18 / 1.0.0](https://github.com/hartwork/fetchcommandwrapper/pull/52) |
 | [ffind](https://github.com/josephscade/ffind) | Rust utility to find files and folders | [2018-03-24](https://github.com/josephscade/ffind/commit/fec4aa6101f2b3d6d5b06df640e299d0b1fbb190) |
-| [firefox-password-merger](https://github.com/jhinrichsen/firefox-password-merger) | Merge Firefox password CSV exports across machines | [2025-10-28 / v0.3.0](https://github.com/jhinrichsen/firefox-password-merger/commit/a11e302ae233e590bef4109eba5c12a454124aca) |
+| [firefox-password-merger](https://github.com/jhinrichsen/firefox-password-merger) | Merge Firefox password CSV exports across machines | [2025-10-28 / 0.3.0](https://github.com/jhinrichsen/firefox-password-merger/commit/a11e302ae233e590bef4109eba5c12a454124aca) |
 | [forest-arborist](https://github.com/JohnRGee/forest-arborist) | Manage a loosely coupled forest of git or hg repositories | [2018-04-15 / 1.2.0](https://github.com/JohnRGee/forest-arborist/releases/tag/v1.2.0) |
 | [fq](https://github.com/wader/fq) | jq for binary formats | [2021-12-03 / 0.0.1](https://github.com/wader/fq/releases/tag/v0.0.1) |
 | [fselect](https://github.com/jhspetersson/fselect) | Utility for finding files with SQL-like expressions | [2019-03-08 / 0.6.1](https://github.com/jhspetersson/fselect/releases/tag/0.6.1) |
@@ -303,7 +303,7 @@ color by default via `NO_COLOR`.
 | [picocli](https://github.com/remkop/picocli/) | Tiny Java command line interface | [2019-01-05 / 3.9.0](https://github.com/remkop/picocli/releases/tag/v3.9.0#3.9.0-ANSI-heuristics) |
 | [pipewire](https://pipewire.org/) | PipeWire multimedia server | [2021-03-13 / 0.3.24](https://gitlab.freedesktop.org/pipewire/pipewire/-/commit/c974318686ced66546861494509d2ee93fc110d9) |
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
-| [Poe the Poet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv | [2023-09-23 / v0.23.0](https://github.com/nat-n/poethepoet/releases/tag/v0.23.0) |
+| [Poe the Poet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv | [2023-09-23 / 0.23.0](https://github.com/nat-n/poethepoet/releases/tag/v0.23.0) |
 | [Poetry](https://github.com/python-poetry/poetry) | Dependency management and packaging in Python | [2021-05-21 / 1.2.0a1](https://github.com/python-poetry/poetry/releases/tag/1.2.0a1) |
 | [PowerShell](https://microsoft.com/PowerShell) | Shell and scripting language | [2021-11-08 / 7.2.0](https://docs.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-72) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
