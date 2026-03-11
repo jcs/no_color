@@ -123,8 +123,8 @@ color by default via `NO_COLOR`.
 | [Dahlia](https://github.com/trag1c/Dahlia) | Python | Simple text formatting package, inspired by Minecraft | [2022-09-24 / 2.0.0](https://github.com/trag1c/Dahlia/commit/c90912d19c4e03bb8144cd2ddf4ba59499daae2d) |
 | [darvil82.terminal-text-formatter](https://github.com/darvil82/java-terminal-text-formatter) | Java | TextFormatter utility to easily color and format text | [2024-03-11 / 2.1.0](https://github.com/darvil82/java-terminal-text-formatter/releases/tag/2.1.0) |
 | [Dye](https://github.com/dduan/Dye) | Swift | Cross-platform terminal styling | [2020-06-01 / 0.0.1](https://github.com/dduan/Dye/releases/tag/0.0.1) |
-| [Fude](https://github.com/msanguineti/fude) | JavaScript | Terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
 | [fmtx](https://github.com/ndx-technologies/fmtx/) | Go | beautiful and simple text interfaces | [2026-03-10 / v0.2.0](https://github.com/ndx-technologies/fmtx/releases/tag/v0.2.0) |
+| [Fude](https://github.com/msanguineti/fude) | JavaScript | Terminal text style formatting | [2022-06-29 / 3.0.0](https://github.com/msanguineti/fude/releases/tag/v3.0.0) |
 | [Gapotchenko. FX.Console](https://github.com/gapotchenko/Gapotchenko.FX/tree/master/Source/Gapotchenko.FX.Console) | .NET | Virtual terminal functionality, console traits, and useful primitives | [2020-01-15 / 2020.1.15](https://github.com/gapotchenko/Gapotchenko.FX/releases/tag/v2020.1.15) |
 | [gchalk](https://github.com/jwalton/gchalk) | Go | Terminal string styling with Windows 10 support | [2021-10-06 / 1.1.1](https://github.com/jwalton/gchalk/commit/f82cbdf7a0a48be8a91f9da03a253a7e47b5e40d) |
 | [Getopt::EX::Colormap](https://metacpan.org/release/Getopt-EX) | Perl | ANSI terminal color and command line option handling | [2021-09-27 / 1.25.0](https://metacpan.org/changes/release/UTASHIRO/Getopt-EX-v1.25.0) |
