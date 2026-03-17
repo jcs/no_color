@@ -384,6 +384,7 @@ color by default via `NO_COLOR`.
 | [Lynx](http://lynx.browser.org/) | `lynx -nocolor` (or `show_color=never` in `.lynxrc`) |
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
+| [nextvi](https://github.com/kyx0r/nextvi) | `EXINIT='hl 0' nextvi` ([README](https://github.com/kyx0r/nextvi/blob/master/README)) |
 | [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true` |
 | [pre-commit](https://pre-commit.com/) | `pre-commit --color=never` or `export PRE_COMMIT_COLOR=never` ([Docs](https://pre-commit.com/#command-line-interface), [Rejected `NO_COLOR` Request](https://github.com/pre-commit/pre-commit/issues/1073#issuecomment-514247757)) |
 | [Puppet](https://www.puppet.com/) | `puppet agent --color false`  ([Docs](https://www.puppet.com/docs/puppet/8/configuration#color)) |
