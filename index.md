@@ -276,6 +276,7 @@ color by default via `NO_COLOR`.
 | [lc](https://github.com/c-blake/lc) | Multi-dimensional, abbreviating ls/file lister in Nim | [2019-11-18 / 0.9.1](https://github.com/c-blake/lc/commit/3f69e692db45c63320c3cbd2d3910208437687f9) |
 | [LicensePlist](https://github.com/mono0926/LicensePlist) | License list generator for Apple developer | [2022-09-20 / 3.23.3](https://github.com/mono0926/LicensePlist/releases/tag/3.23.3) |
 | [Lintian](https://lintian.debian.org) | Friendly packaging advice for Debian contributors | [2021-12-12 / 2.114.87](https://salsa.debian.org/lintian/lintian/-/commit/275a48e628120100a38cbcd5a4f7f5b70c5ab47d) |
+| [logr](https://github.com/kova1max/logr) | Search the commit history of every git repository under a directory | [2026-09-29 / 0.1.0](https://github.com/kova1max/logr/releases/tag/v0.1.0) |
 | [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29 / 1.5.1](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
 | [Matterbridge](https://matterbridge.io) | Matterbridge | [2026-02-06 / 3.5.3](https://matterbridge.io/CHANGELOG.html) |
