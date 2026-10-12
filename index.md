@@ -359,6 +359,7 @@ color by default via `NO_COLOR`.
 | [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
 | [whence](https://github.com/ppelleti/whence) | Print URL a file was downloaded from | [2020-06-20 / 0.9.2](https://github.com/ppelleti/whence/releases/tag/0.9.2) |
 | [woob](https://woob.tech) | Command-line applications to interact with many websites | [2021-05-13 / 3.1](https://gitlab.com/woob/woob/-/commit/f6b446ba5af7bd80f2795330facc9841740c7076) |
+| [WOPR](https://github.com/GhostofGoes/WOPR) | Terminal recreation of the WOPR computer from WarGames | [2026-10-07 / 0.1.0](https://github.com/GhostofGoes/WOPR/releases/tag/v0.1.0) |
 | [xh](https://github.com/ducaale/xh) | Friendly and fast tool for sending HTTP requests | [2021-02-28 / 0.8.0](https://github.com/ducaale/xh/releases/tag/v0.8.0) |
 | [xidoc](https://xidoc.nim.town/) | Consistent and powerful markup language | [2023-01-09 / 2023.1.9](https://git.sr.ht/~xigoi/xidoc/refs/2023.1.9) |
 | [xmpp-dns](https://xmpp-dns.mdosch.de) | A CLI tool to check XMPP SRV records | [2026-06-14 / 0.6.3](https://salsa.debian.org/mdosch/xmpp-dns/-/releases) |
