@@ -148,6 +148,7 @@ color by default via `NO_COLOR`.
 | [pfetch](https://github.com/Un1q32/pfetch) | Shell | Pretty system information | [2024-08-01](https://github.com/Un1q32/pfetch/commit/efa9b369b467934e168cd26f69bbd4661e29e065) |
 | [php-cli](https://github.com/splitbrain/php-cli) | PHP | PHP library to build command line tools | [2024-12-03 / 1.3.2](https://github.com/splitbrain/php-cli/commit/360ed0b3704fa8fcd1ce976ed79012aa2c67d22f) |
 | [pretty](https://github.com/clj-commons/pretty) | Clojure | Library for helping print things prettily | [2023-07-20 / 2.0](https://github.com/clj-commons/pretty/releases/tag/2.0) |
+| [progress_bar](https://github.com/Mubelotix/progress-bar) | Rust | Terminal progress bars with ETA and logging | [2026-11-03 / 1.6.0](https://github.com/Mubelotix/progress-bar/commit/9aeb1b2d727789d3d5f471ae5e653bc2f37ec8f5) |
 | [PyTermGUI](https://github.com/bczsalba/pytermgui/) | Python | TUI framework | [2022-03-21 / 4.2.0](https://github.com/bczsalba/pytermgui/releases/tag/v4.2.0) |
 | [rich](https://github.com/Textualize/rich) | Python | Rich text and beautiful formatting | [2022-02-08 / 11.2.0](https://github.com/Textualize/rich/releases/tag/v11.2.0) |
 | [sgr](https://github.com/datafl4sh/sgr) | C++ | Stream manipulators for colored text output | [2022-02-28](https://github.com/datafl4sh/sgr/commit/a9fede27b1966e0104567541535fd40c9c7b6ef3) |
