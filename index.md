@@ -355,6 +355,7 @@ color by default via `NO_COLOR`.
 | [txtnish](https://github.com/mdom/txtnish) | Twtxt microblogging client | [2018-08-31](https://github.com/mdom/txtnish/commit/257d312ac282ab99e8357e31f6c282b881fbb171) |
 | [ugrep](https://ugrep.com) | File pattern searcher | [2024-04-03 / 5.1.2](https://github.com/Genivia/ugrep/releases/tag/v5.1.2) |
 | [undertime](https://gitlab.com/anarcat/undertime) | Timezone coordination tool | [2018-06-06](https://gitlab.com/anarcat/undertime/commit/0c4c2b38f32127a0dc59d2bd6e5f9db0b61ca847) |
+| [unraid-motd](https://github.com/SebastianOehm/unraid-motd) | Login message of the day for Unraid servers | [2026-10-24 / 2026.10.24](https://github.com/SebastianOehm/unraid-motd/releases/tag/2026.10.24) |
 | [UnrealIRCd](https://www.unrealircd.org) | IRC Server | [2023-03-11](https://github.com/unrealircd/unrealircd/commit/c43753cd4b36ed2662b0df2b2f91887a25b3283e) |
 | [UpCloud CLI (upctl)](https://github.com/UpCloudLtd/upcloud-cli) | Command line interface to UpCloud services | [2022-07-15 / 1.5.1](https://github.com/UpCloudLtd/upcloud-cli/releases/tag/v1.5.1) |
 | [UPX](https://upx.github.io) | The Ultimate Packer for eXecutables | [2023-10-26 / 4.2.0](https://github.com/upx/upx/releases/tag/v4.2.0) |
