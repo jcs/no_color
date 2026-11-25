@@ -260,6 +260,7 @@ color by default via `NO_COLOR`.
 | [Hugo](https://github.com/gohugoio/hugo) | Framework for building websites | [2022-06-16 / 0.101.0](https://github.com/gohugoio/hugo/releases/tag/v0.101.0) |
 | [Hurl](https://hurl.dev) | Run and test HTTP requests with plain text and curl | [2022-09-13 / 1.7.0](https://github.com/Orange-OpenSource/hurl/releases/tag/1.7.0) |
 | [hx](https://github.com/sitkevij/hex) | Futuristic take on hexdump, made in Rust | [2020-11-22 / 0.4.0](https://github.com/sitkevij/hex/releases/tag/v0.4.0) |
+| [IIIF-Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) | Python 3 downloader for IIIF documents | [2026-11-20 / 1.1.0](https://github.com/ClaudioMartino/IIIF-Downloader/commit/7e464f41ab994a9a4d247067192453d96687dda4) |
 | [inary](https://gitlab.com/sulinos/devel/inary) | Package manager for SulinOS | [2021-10-18](https://gitlab.com/sulinos/devel/inary/-/commit/29cbfcd8a8b50683d6726fd7b060af005d1b9c80) |
 | [ipcalc](https://gitlab.com/ipcalc/ipcalc) | A modern IPv4/IPv6 ipcalc tool | [2025-05-01](https://gitlab.com/ipcalc/ipcalc/-/commit/adcdaa3e14b704b217f4b9b7062ee32db082c99f) |
 | [irb](https://github.com/ruby/irb) | Official Ruby REPL | [2021-06-21 / 1.3.6](https://github.com/ruby/irb/releases/tag/v1.3.6) |
